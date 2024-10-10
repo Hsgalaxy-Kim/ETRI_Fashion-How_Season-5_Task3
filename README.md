@@ -34,7 +34,7 @@ example
 
 ## 4. Model structure
 
-![teaser](https://github.com/Hsgalaxy-Kim/ETRI_Fashion-How_Season-5_Task3/blob/main/ETRI_Fashion-How_Season-5_Task3_main.PNG)
+![teaser](https://github.com/user-attachments/assets/4a8f1210-5065-48c4-b630-be8e784b35cd)
 
 ## 5. Setup
 
