@@ -60,7 +60,10 @@ example
 | 6    | 0.8131    | 0.6377    | 0.5774    | 0.7299    | 0.6906    | 0.7261    | 0.6958 |
     
 ## Final Score
+(after quantization)
 
-0.7063361 after quantization
+0.7063361
 
-Sever: 16.8MB (My PC: 17.6 MB)
+Sever: 16.8MB
+
+My PC: 17.6 MB
