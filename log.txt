@@ -1,0 +1,6283 @@
+
+Task1*********************************************
+
+Epoch 1/40
+Total Loss 1.7385
+SI Loss 0.0000
+Current val score 0.4658save...
+
+Epoch 2/40
+Total Loss 1.0264
+SI Loss 0.0000
+Current val score 0.7913
+Max val score 0.4658save...
+
+Epoch 3/40
+Total Loss 0.4409
+SI Loss 0.0000
+Current val score 0.7949
+Max val score 0.7913save...
+
+Epoch 4/40
+Total Loss 0.1691
+SI Loss 0.0000
+Current val score 0.8006
+Max val score 0.7949save...
+
+Epoch 5/40
+Total Loss 0.0805
+SI Loss 0.0000
+Current val score 0.8383
+Max val score 0.8006save...
+
+Epoch 6/40
+Total Loss 0.0498
+SI Loss 0.0000
+Current val score 0.8210
+Max val score 0.8383
+
+Epoch 7/40
+Total Loss 0.0350
+SI Loss 0.0000
+Current val score 0.8169
+Max val score 0.8383
+
+Epoch 8/40
+Total Loss 0.0275
+SI Loss 0.0000
+Current val score 0.8188
+Max val score 0.8383
+
+Epoch 9/40
+Total Loss 0.0212
+SI Loss 0.0000
+Current val score 0.8396
+Max val score 0.8383save...
+
+Epoch 10/40
+Total Loss 0.0164
+SI Loss 0.0000
+Current val score 0.8396
+Max val score 0.8396
+
+Epoch 11/40
+Total Loss 0.0151
+SI Loss 0.0000
+Current val score 0.8403
+Max val score 0.8396save...
+
+Epoch 12/40
+Total Loss 0.0127
+SI Loss 0.0000
+Current val score 0.8390
+Max val score 0.8403
+
+Epoch 13/40
+Total Loss 0.0117
+SI Loss 0.0000
+Current val score 0.8266
+Max val score 0.8403
+
+Epoch 14/40
+Total Loss 0.0102
+SI Loss 0.0000
+Current val score 0.8273
+Max val score 0.8403
+
+Epoch 15/40
+Total Loss 0.0101
+SI Loss 0.0000
+Current val score 0.8266
+Max val score 0.8403
+
+Epoch 16/40
+Total Loss 0.0087
+SI Loss 0.0000
+Current val score 0.8286
+Max val score 0.8403
+
+Epoch 17/40
+Total Loss 0.0073
+SI Loss 0.0000
+Current val score 0.8255
+Max val score 0.8403
+
+Epoch 18/40
+Total Loss 0.0069
+SI Loss 0.0000
+Current val score 0.8186
+Max val score 0.8403
+
+Epoch 19/40
+Total Loss 0.0067
+SI Loss 0.0000
+Current val score 0.8099
+Max val score 0.8403
+
+Epoch 20/40
+Total Loss 0.0064
+SI Loss 0.0000
+Current val score 0.8299
+Max val score 0.8403
+
+Epoch 21/40
+Total Loss 0.0058
+SI Loss 0.0000
+Current val score 0.8252
+Max val score 0.8403
+
+Epoch 22/40
+Total Loss 0.0055
+SI Loss 0.0000
+Current val score 0.8156
+Max val score 0.8403
+
+Epoch 23/40
+Total Loss 0.0047
+SI Loss 0.0000
+Current val score 0.8252
+Max val score 0.8403
+
+Epoch 24/40
+Total Loss 0.0048
+SI Loss 0.0000
+Current val score 0.8264
+Max val score 0.8403
+
+Epoch 25/40
+Total Loss 0.0043
+SI Loss 0.0000
+Current val score 0.8164
+Max val score 0.8403
+
+Epoch 26/40
+Total Loss 0.0041
+SI Loss 0.0000
+Current val score 0.8277
+Max val score 0.8403
+
+Epoch 27/40
+Total Loss 0.0041
+SI Loss 0.0000
+Current val score 0.8422
+Max val score 0.8403save...
+
+Epoch 28/40
+Total Loss 0.0035
+SI Loss 0.0000
+Current val score 0.8461
+Max val score 0.8422save...
+
+Epoch 29/40
+Total Loss 0.0033
+SI Loss 0.0000
+Current val score 0.8396
+Max val score 0.8461
+
+Epoch 30/40
+Total Loss 0.0030
+SI Loss 0.0000
+Current val score 0.8364
+Max val score 0.8461
+
+Epoch 31/40
+Total Loss 0.0037
+SI Loss 0.0000
+Current val score 0.8305
+Max val score 0.8461
+
+Epoch 32/40
+Total Loss 0.0031
+SI Loss 0.0000
+Current val score 0.8378
+Max val score 0.8461
+
+Epoch 33/40
+Total Loss 0.0035
+SI Loss 0.0000
+Current val score 0.8357
+Max val score 0.8461
+
+Epoch 34/40
+Total Loss 0.0031
+SI Loss 0.0000
+Current val score 0.8390
+Max val score 0.8461
+
+Epoch 35/40
+Total Loss 0.0031
+SI Loss 0.0000
+Current val score 0.8344
+Max val score 0.8461
+
+Epoch 36/40
+Total Loss 0.0028
+SI Loss 0.0000
+Current val score 0.8383
+Max val score 0.8461
+
+Epoch 37/40
+Total Loss 0.0022
+SI Loss 0.0000
+Current val score 0.8377
+Max val score 0.8461
+
+Epoch 38/40
+Total Loss 0.0027
+SI Loss 0.0000
+Current val score 0.8294
+Max val score 0.8461
+
+Epoch 39/40
+Total Loss 0.0020
+SI Loss 0.0000
+Current val score 0.8368
+Max val score 0.8461
+
+Epoch 40/40
+Total Loss 0.0033
+SI Loss 0.0000
+Current val score 0.8416
+Max val score 0.8461
+Task1 validation***************************************
+ Average WKTC over iterations 0.8348
+Task2*********************************************
+
+Epoch 1/200
+Total Loss 0.9989
+SI Loss 0.0801
+Current val score 0.5649save...
+
+Epoch 2/200
+Total Loss 0.2379
+SI Loss 0.1076
+Current val score 0.6448
+Max val score 0.5649save...
+
+Epoch 3/200
+Total Loss 0.1659
+SI Loss 0.1067
+Current val score 0.6803
+Max val score 0.6448save...
+
+Epoch 4/200
+Total Loss 0.1434
+SI Loss 0.1036
+Current val score 0.6620
+Max val score 0.6803
+
+Epoch 5/200
+Total Loss 0.1294
+SI Loss 0.1002
+Current val score 0.6692
+Max val score 0.6803
+
+Epoch 6/200
+Total Loss 0.1222
+SI Loss 0.0963
+Current val score 0.6236
+Max val score 0.6803
+
+Epoch 7/200
+Total Loss 0.1148
+SI Loss 0.0930
+Current val score 0.6653
+Max val score 0.6803
+
+Epoch 8/200
+Total Loss 0.1098
+SI Loss 0.0899
+Current val score 0.7043
+Max val score 0.6803save...
+
+Epoch 9/200
+Total Loss 0.1080
+SI Loss 0.0876
+Current val score 0.7079
+Max val score 0.7043save...
+
+Epoch 10/200
+Total Loss 0.1065
+SI Loss 0.0859
+Current val score 0.6974
+Max val score 0.7079
+
+Epoch 11/200
+Total Loss 0.1052
+SI Loss 0.0847
+Current val score 0.6805
+Max val score 0.7079
+
+Epoch 12/200
+Total Loss 0.1005
+SI Loss 0.0834
+Current val score 0.6968
+Max val score 0.7079
+
+Epoch 13/200
+Total Loss 0.0982
+SI Loss 0.0810
+Current val score 0.7053
+Max val score 0.7079
+
+Epoch 14/200
+Total Loss 0.0942
+SI Loss 0.0798
+Current val score 0.7088
+Max val score 0.7079save...
+
+Epoch 15/200
+Total Loss 0.0913
+SI Loss 0.0775
+Current val score 0.7011
+Max val score 0.7088
+
+Epoch 16/200
+Total Loss 0.0881
+SI Loss 0.0755
+Current val score 0.7250
+Max val score 0.7088save...
+
+Epoch 17/200
+Total Loss 0.0927
+SI Loss 0.0746
+Current val score 0.7103
+Max val score 0.7250
+
+Epoch 18/200
+Total Loss 0.0900
+SI Loss 0.0746
+Current val score 0.7318
+Max val score 0.7250save...
+
+Epoch 19/200
+Total Loss 0.0931
+SI Loss 0.0746
+Current val score 0.7182
+Max val score 0.7318
+
+Epoch 20/200
+Total Loss 0.1004
+SI Loss 0.0768
+Current val score 0.6969
+Max val score 0.7318
+
+Epoch 21/200
+Total Loss 0.0938
+SI Loss 0.0782
+Current val score 0.6924
+Max val score 0.7318
+
+Epoch 22/200
+Total Loss 0.0922
+SI Loss 0.0767
+Current val score 0.6786
+Max val score 0.7318
+
+Epoch 23/200
+Total Loss 0.0911
+SI Loss 0.0760
+Current val score 0.7181
+Max val score 0.7318
+
+Epoch 24/200
+Total Loss 0.0938
+SI Loss 0.0764
+Current val score 0.7152
+Max val score 0.7318
+
+Epoch 25/200
+Total Loss 0.0919
+SI Loss 0.0760
+Current val score 0.7209
+Max val score 0.7318
+
+Epoch 26/200
+Total Loss 0.0904
+SI Loss 0.0756
+Current val score 0.7166
+Max val score 0.7318
+
+Epoch 27/200
+Total Loss 0.0862
+SI Loss 0.0743
+Current val score 0.7262
+Max val score 0.7318
+
+Epoch 28/200
+Total Loss 0.0885
+SI Loss 0.0735
+Current val score 0.7251
+Max val score 0.7318
+
+Epoch 29/200
+Total Loss 0.0886
+SI Loss 0.0736
+Current val score 0.7283
+Max val score 0.7318
+
+Epoch 30/200
+Total Loss 0.0908
+SI Loss 0.0742
+Current val score 0.7325
+Max val score 0.7318save...
+
+Epoch 31/200
+Total Loss 0.0929
+SI Loss 0.0753
+Current val score 0.7183
+Max val score 0.7325
+
+Epoch 32/200
+Total Loss 0.0932
+SI Loss 0.0756
+Current val score 0.7234
+Max val score 0.7325
+
+Epoch 33/200
+Total Loss 0.0922
+SI Loss 0.0758
+Current val score 0.7286
+Max val score 0.7325
+
+Epoch 34/200
+Total Loss 0.0872
+SI Loss 0.0750
+Current val score 0.7153
+Max val score 0.7325
+
+Epoch 35/200
+Total Loss 0.0898
+SI Loss 0.0749
+Current val score 0.7060
+Max val score 0.7325
+
+Epoch 36/200
+Total Loss 0.0871
+SI Loss 0.0743
+Current val score 0.6986
+Max val score 0.7325
+
+Epoch 37/200
+Total Loss 0.0919
+SI Loss 0.0749
+Current val score 0.7345
+Max val score 0.7325save...
+
+Epoch 38/200
+Total Loss 0.0918
+SI Loss 0.0763
+Current val score 0.7085
+Max val score 0.7345
+
+Epoch 39/200
+Total Loss 0.0901
+SI Loss 0.0757
+Current val score 0.7362
+Max val score 0.7345save...
+
+Epoch 40/200
+Total Loss 0.0873
+SI Loss 0.0755
+Current val score 0.7661
+Max val score 0.7362save...
+
+Epoch 41/200
+Total Loss 0.0838
+SI Loss 0.0738
+Current val score 0.7399
+Max val score 0.7661
+
+Epoch 42/200
+Total Loss 0.0796
+SI Loss 0.0709
+Current val score 0.7410
+Max val score 0.7661
+
+Epoch 43/200
+Total Loss 0.0865
+SI Loss 0.0714
+Current val score 0.7336
+Max val score 0.7661
+
+Epoch 44/200
+Total Loss 0.0907
+SI Loss 0.0732
+Current val score 0.7286
+Max val score 0.7661
+
+Epoch 45/200
+Total Loss 0.0862
+SI Loss 0.0728
+Current val score 0.7242
+Max val score 0.7661
+
+Epoch 46/200
+Total Loss 0.0898
+SI Loss 0.0740
+Current val score 0.7175
+Max val score 0.7661
+
+Epoch 47/200
+Total Loss 0.0881
+SI Loss 0.0739
+Current val score 0.7264
+Max val score 0.7661
+
+Epoch 48/200
+Total Loss 0.0873
+SI Loss 0.0741
+Current val score 0.7126
+Max val score 0.7661
+
+Epoch 49/200
+Total Loss 0.0864
+SI Loss 0.0734
+Current val score 0.6969
+Max val score 0.7661
+
+Epoch 50/200
+Total Loss 0.0836
+SI Loss 0.0726
+Current val score 0.7095
+Max val score 0.7661
+
+Epoch 51/200
+Total Loss 0.0828
+SI Loss 0.0712
+Current val score 0.7127
+Max val score 0.7661
+
+Epoch 52/200
+Total Loss 0.0856
+SI Loss 0.0711
+Current val score 0.7001
+Max val score 0.7661
+
+Epoch 53/200
+Total Loss 0.0871
+SI Loss 0.0723
+Current val score 0.7019
+Max val score 0.7661
+
+Epoch 54/200
+Total Loss 0.0850
+SI Loss 0.0722
+Current val score 0.7078
+Max val score 0.7661
+
+Epoch 55/200
+Total Loss 0.0810
+SI Loss 0.0711
+Current val score 0.7251
+Max val score 0.7661
+
+Epoch 56/200
+Total Loss 0.0826
+SI Loss 0.0706
+Current val score 0.7276
+Max val score 0.7661
+
+Epoch 57/200
+Total Loss 0.0798
+SI Loss 0.0697
+Current val score 0.7160
+Max val score 0.7661
+
+Epoch 58/200
+Total Loss 0.0781
+SI Loss 0.0685
+Current val score 0.7131
+Max val score 0.7661
+
+Epoch 59/200
+Total Loss 0.0803
+SI Loss 0.0680
+Current val score 0.7202
+Max val score 0.7661
+
+Epoch 60/200
+Total Loss 0.0868
+SI Loss 0.0703
+Current val score 0.7238
+Max val score 0.7661
+
+Epoch 61/200
+Total Loss 0.0891
+SI Loss 0.0731
+Current val score 0.7227
+Max val score 0.7661
+
+Epoch 62/200
+Total Loss 0.0843
+SI Loss 0.0728
+Current val score 0.7347
+Max val score 0.7661
+
+Epoch 63/200
+Total Loss 0.0845
+SI Loss 0.0718
+Current val score 0.7341
+Max val score 0.7661
+
+Epoch 64/200
+Total Loss 0.0847
+SI Loss 0.0721
+Current val score 0.7479
+Max val score 0.7661
+
+Epoch 65/200
+Total Loss 0.0888
+SI Loss 0.0728
+Current val score 0.6925
+Max val score 0.7661
+
+Epoch 66/200
+Total Loss 0.0895
+SI Loss 0.0745
+Current val score 0.7055
+Max val score 0.7661
+
+Epoch 67/200
+Total Loss 0.0844
+SI Loss 0.0739
+Current val score 0.7214
+Max val score 0.7661
+
+Epoch 68/200
+Total Loss 0.0850
+SI Loss 0.0731
+Current val score 0.7042
+Max val score 0.7661
+
+Epoch 69/200
+Total Loss 0.0823
+SI Loss 0.0718
+Current val score 0.7173
+Max val score 0.7661
+
+Epoch 70/200
+Total Loss 0.0836
+SI Loss 0.0714
+Current val score 0.7338
+Max val score 0.7661
+
+Epoch 71/200
+Total Loss 0.0830
+SI Loss 0.0715
+Current val score 0.7369
+Max val score 0.7661
+
+Epoch 72/200
+Total Loss 0.0875
+SI Loss 0.0726
+Current val score 0.7291
+Max val score 0.7661
+
+Epoch 73/200
+Total Loss 0.0840
+SI Loss 0.0727
+Current val score 0.7281
+Max val score 0.7661
+
+Epoch 74/200
+Total Loss 0.0852
+SI Loss 0.0725
+Current val score 0.6986
+Max val score 0.7661
+
+Epoch 75/200
+Total Loss 0.0852
+SI Loss 0.0728
+Current val score 0.7084
+Max val score 0.7661
+
+Epoch 76/200
+Total Loss 0.0852
+SI Loss 0.0725
+Current val score 0.7383
+Max val score 0.7661
+
+Epoch 77/200
+Total Loss 0.0820
+SI Loss 0.0722
+Current val score 0.7247
+Max val score 0.7661
+
+Epoch 78/200
+Total Loss 0.0823
+SI Loss 0.0713
+Current val score 0.7108
+Max val score 0.7661
+
+Epoch 79/200
+Total Loss 0.0837
+SI Loss 0.0714
+Current val score 0.6917
+Max val score 0.7661
+
+Epoch 80/200
+Total Loss 0.0831
+SI Loss 0.0715
+Current val score 0.7355
+Max val score 0.7661
+
+Epoch 81/200
+Total Loss 0.0803
+SI Loss 0.0705
+Current val score 0.7331
+Max val score 0.7661
+
+Epoch 82/200
+Total Loss 0.0794
+SI Loss 0.0696
+Current val score 0.7121
+Max val score 0.7661
+
+Epoch 83/200
+Total Loss 0.0800
+SI Loss 0.0692
+Current val score 0.7081
+Max val score 0.7661
+
+Epoch 84/200
+Total Loss 0.0855
+SI Loss 0.0701
+Current val score 0.7273
+Max val score 0.7661
+
+Epoch 85/200
+Total Loss 0.0828
+SI Loss 0.0711
+Current val score 0.7347
+Max val score 0.7661
+
+Epoch 86/200
+Total Loss 0.0831
+SI Loss 0.0708
+Current val score 0.7221
+Max val score 0.7661
+
+Epoch 87/200
+Total Loss 0.0857
+SI Loss 0.0713
+Current val score 0.7042
+Max val score 0.7661
+
+Epoch 88/200
+Total Loss 0.0874
+SI Loss 0.0724
+Current val score 0.6892
+Max val score 0.7661
+
+Epoch 89/200
+Total Loss 0.0872
+SI Loss 0.0733
+Current val score 0.6995
+Max val score 0.7661
+
+Epoch 90/200
+Total Loss 0.0919
+SI Loss 0.0747
+Current val score 0.6978
+Max val score 0.7661
+
+Epoch 91/200
+Total Loss 0.0880
+SI Loss 0.0750
+Current val score 0.6931
+Max val score 0.7661
+
+Epoch 92/200
+Total Loss 0.0850
+SI Loss 0.0745
+Current val score 0.7142
+Max val score 0.7661
+
+Epoch 93/200
+Total Loss 0.0836
+SI Loss 0.0733
+Current val score 0.7232
+Max val score 0.7661
+
+Epoch 94/200
+Total Loss 0.0860
+SI Loss 0.0733
+Current val score 0.7121
+Max val score 0.7661
+
+Epoch 95/200
+Total Loss 0.0808
+SI Loss 0.0723
+Current val score 0.7197
+Max val score 0.7661
+
+Epoch 96/200
+Total Loss 0.0811
+SI Loss 0.0712
+Current val score 0.7132
+Max val score 0.7661
+
+Epoch 97/200
+Total Loss 0.0827
+SI Loss 0.0716
+Current val score 0.6840
+Max val score 0.7661
+
+Epoch 98/200
+Total Loss 0.0825
+SI Loss 0.0709
+Current val score 0.6842
+Max val score 0.7661
+
+Epoch 99/200
+Total Loss 0.0823
+SI Loss 0.0715
+Current val score 0.6890
+Max val score 0.7661
+
+Epoch 100/200
+Total Loss 0.0814
+SI Loss 0.0707
+Current val score 0.6814
+Max val score 0.7661
+
+Epoch 101/200
+Total Loss 0.0875
+SI Loss 0.0717
+Current val score 0.7236
+Max val score 0.7661
+
+Epoch 102/200
+Total Loss 0.0869
+SI Loss 0.0733
+Current val score 0.6974
+Max val score 0.7661
+
+Epoch 103/200
+Total Loss 0.0883
+SI Loss 0.0744
+Current val score 0.6601
+Max val score 0.7661
+
+Epoch 104/200
+Total Loss 0.0888
+SI Loss 0.0751
+Current val score 0.7060
+Max val score 0.7661
+
+Epoch 105/200
+Total Loss 0.0837
+SI Loss 0.0740
+Current val score 0.6712
+Max val score 0.7661
+
+Epoch 106/200
+Total Loss 0.0817
+SI Loss 0.0726
+Current val score 0.6918
+Max val score 0.7661
+
+Epoch 107/200
+Total Loss 0.0828
+SI Loss 0.0717
+Current val score 0.6841
+Max val score 0.7661
+
+Epoch 108/200
+Total Loss 0.0810
+SI Loss 0.0716
+Current val score 0.6947
+Max val score 0.7661
+
+Epoch 109/200
+Total Loss 0.0802
+SI Loss 0.0710
+Current val score 0.7144
+Max val score 0.7661
+
+Epoch 110/200
+Total Loss 0.0793
+SI Loss 0.0700
+Current val score 0.6812
+Max val score 0.7661
+
+Epoch 111/200
+Total Loss 0.0765
+SI Loss 0.0688
+Current val score 0.6908
+Max val score 0.7661
+
+Epoch 112/200
+Total Loss 0.0796
+SI Loss 0.0687
+Current val score 0.7362
+Max val score 0.7661
+
+Epoch 113/200
+Total Loss 0.0811
+SI Loss 0.0691
+Current val score 0.7110
+Max val score 0.7661
+
+Epoch 114/200
+Total Loss 0.0874
+SI Loss 0.0713
+Current val score 0.6693
+Max val score 0.7661
+
+Epoch 115/200
+Total Loss 0.0887
+SI Loss 0.0741
+Current val score 0.6917
+Max val score 0.7661
+
+Epoch 116/200
+Total Loss 0.0879
+SI Loss 0.0748
+Current val score 0.6867
+Max val score 0.7661
+
+Epoch 117/200
+Total Loss 0.0910
+SI Loss 0.0758
+Current val score 0.7034
+Max val score 0.7661
+
+Epoch 118/200
+Total Loss 0.0916
+SI Loss 0.0765
+Current val score 0.7305
+Max val score 0.7661
+
+Epoch 119/200
+Total Loss 0.0884
+SI Loss 0.0766
+Current val score 0.7174
+Max val score 0.7661
+
+Epoch 120/200
+Total Loss 0.0841
+SI Loss 0.0752
+Current val score 0.7074
+Max val score 0.7661
+
+Epoch 121/200
+Total Loss 0.0838
+SI Loss 0.0740
+Current val score 0.7037
+Max val score 0.7661
+
+Epoch 122/200
+Total Loss 0.0823
+SI Loss 0.0733
+Current val score 0.7216
+Max val score 0.7661
+
+Epoch 123/200
+Total Loss 0.0834
+SI Loss 0.0731
+Current val score 0.7262
+Max val score 0.7661
+
+Epoch 124/200
+Total Loss 0.0806
+SI Loss 0.0717
+Current val score 0.7179
+Max val score 0.7661
+
+Epoch 125/200
+Total Loss 0.0827
+SI Loss 0.0715
+Current val score 0.7060
+Max val score 0.7661
+
+Epoch 126/200
+Total Loss 0.0809
+SI Loss 0.0710
+Current val score 0.7021
+Max val score 0.7661
+
+Epoch 127/200
+Total Loss 0.0782
+SI Loss 0.0702
+Current val score 0.7134
+Max val score 0.7661
+
+Epoch 128/200
+Total Loss 0.0791
+SI Loss 0.0692
+Current val score 0.7049
+Max val score 0.7661
+
+Epoch 129/200
+Total Loss 0.0802
+SI Loss 0.0694
+Current val score 0.6821
+Max val score 0.7661
+
+Epoch 130/200
+Total Loss 0.0772
+SI Loss 0.0691
+Current val score 0.7164
+Max val score 0.7661
+
+Epoch 131/200
+Total Loss 0.0805
+SI Loss 0.0693
+Current val score 0.7112
+Max val score 0.7661
+
+Epoch 132/200
+Total Loss 0.0808
+SI Loss 0.0697
+Current val score 0.7492
+Max val score 0.7661
+
+Epoch 133/200
+Total Loss 0.0817
+SI Loss 0.0700
+Current val score 0.7037
+Max val score 0.7661
+
+Epoch 134/200
+Total Loss 0.0824
+SI Loss 0.0705
+Current val score 0.7275
+Max val score 0.7661
+
+Epoch 135/200
+Total Loss 0.0845
+SI Loss 0.0717
+Current val score 0.7132
+Max val score 0.7661
+
+Epoch 136/200
+Total Loss 0.0890
+SI Loss 0.0732
+Current val score 0.6924
+Max val score 0.7661
+
+Epoch 137/200
+Total Loss 0.0850
+SI Loss 0.0738
+Current val score 0.6888
+Max val score 0.7661
+
+Epoch 138/200
+Total Loss 0.0822
+SI Loss 0.0726
+Current val score 0.6794
+Max val score 0.7661
+
+Epoch 139/200
+Total Loss 0.0878
+SI Loss 0.0730
+Current val score 0.7079
+Max val score 0.7661
+
+Epoch 140/200
+Total Loss 0.0881
+SI Loss 0.0741
+Current val score 0.6976
+Max val score 0.7661
+
+Epoch 141/200
+Total Loss 0.0853
+SI Loss 0.0740
+Current val score 0.6715
+Max val score 0.7661
+
+Epoch 142/200
+Total Loss 0.0838
+SI Loss 0.0733
+Current val score 0.6845
+Max val score 0.7661
+
+Epoch 143/200
+Total Loss 0.0889
+SI Loss 0.0737
+Current val score 0.7111
+Max val score 0.7661
+
+Epoch 144/200
+Total Loss 0.0834
+SI Loss 0.0744
+Current val score 0.6916
+Max val score 0.7661
+
+Epoch 145/200
+Total Loss 0.0807
+SI Loss 0.0725
+Current val score 0.7166
+Max val score 0.7661
+
+Epoch 146/200
+Total Loss 0.0811
+SI Loss 0.0718
+Current val score 0.7262
+Max val score 0.7661
+
+Epoch 147/200
+Total Loss 0.0843
+SI Loss 0.0722
+Current val score 0.7147
+Max val score 0.7661
+
+Epoch 148/200
+Total Loss 0.0842
+SI Loss 0.0723
+Current val score 0.7529
+Max val score 0.7661
+
+Epoch 149/200
+Total Loss 0.0819
+SI Loss 0.0726
+Current val score 0.7149
+Max val score 0.7661
+
+Epoch 150/200
+Total Loss 0.0826
+SI Loss 0.0720
+Current val score 0.7147
+Max val score 0.7661
+
+Epoch 151/200
+Total Loss 0.0794
+SI Loss 0.0715
+Current val score 0.7301
+Max val score 0.7661
+
+Epoch 152/200
+Total Loss 0.0820
+SI Loss 0.0711
+Current val score 0.7157
+Max val score 0.7661
+
+Epoch 153/200
+Total Loss 0.0870
+SI Loss 0.0722
+Current val score 0.7072
+Max val score 0.7661
+
+Epoch 154/200
+Total Loss 0.0844
+SI Loss 0.0733
+Current val score 0.7360
+Max val score 0.7661
+
+Epoch 155/200
+Total Loss 0.0868
+SI Loss 0.0733
+Current val score 0.7164
+Max val score 0.7661
+
+Epoch 156/200
+Total Loss 0.0872
+SI Loss 0.0746
+Current val score 0.6646
+Max val score 0.7661
+
+Epoch 157/200
+Total Loss 0.0892
+SI Loss 0.0755
+Current val score 0.6668
+Max val score 0.7661
+
+Epoch 158/200
+Total Loss 0.0844
+SI Loss 0.0750
+Current val score 0.6899
+Max val score 0.7661
+
+Epoch 159/200
+Total Loss 0.0853
+SI Loss 0.0746
+Current val score 0.6655
+Max val score 0.7661
+
+Epoch 160/200
+Total Loss 0.0838
+SI Loss 0.0743
+Current val score 0.6783
+Max val score 0.7661
+
+Epoch 161/200
+Total Loss 0.0854
+SI Loss 0.0739
+Current val score 0.6710
+Max val score 0.7661
+
+Epoch 162/200
+Total Loss 0.0856
+SI Loss 0.0743
+Current val score 0.6896
+Max val score 0.7661
+
+Epoch 163/200
+Total Loss 0.0827
+SI Loss 0.0734
+Current val score 0.6823
+Max val score 0.7661
+
+Epoch 164/200
+Total Loss 0.0827
+SI Loss 0.0724
+Current val score 0.7056
+Max val score 0.7661
+
+Epoch 165/200
+Total Loss 0.0840
+SI Loss 0.0730
+Current val score 0.7086
+Max val score 0.7661
+
+Epoch 166/200
+Total Loss 0.0814
+SI Loss 0.0721
+Current val score 0.6978
+Max val score 0.7661
+
+Epoch 167/200
+Total Loss 0.0843
+SI Loss 0.0726
+Current val score 0.6801
+Max val score 0.7661
+
+Epoch 168/200
+Total Loss 0.0845
+SI Loss 0.0736
+Current val score 0.7110
+Max val score 0.7661
+
+Epoch 169/200
+Total Loss 0.0878
+SI Loss 0.0746
+Current val score 0.7052
+Max val score 0.7661
+
+Epoch 170/200
+Total Loss 0.0876
+SI Loss 0.0748
+Current val score 0.7118
+Max val score 0.7661
+
+Epoch 171/200
+Total Loss 0.0846
+SI Loss 0.0747
+Current val score 0.7190
+Max val score 0.7661
+
+Epoch 172/200
+Total Loss 0.0883
+SI Loss 0.0756
+Current val score 0.7149
+Max val score 0.7661
+
+Epoch 173/200
+Total Loss 0.0848
+SI Loss 0.0753
+Current val score 0.7214
+Max val score 0.7661
+
+Epoch 174/200
+Total Loss 0.0819
+SI Loss 0.0738
+Current val score 0.7202
+Max val score 0.7661
+
+Epoch 175/200
+Total Loss 0.0856
+SI Loss 0.0739
+Current val score 0.7019
+Max val score 0.7661
+
+Epoch 176/200
+Total Loss 0.0874
+SI Loss 0.0745
+Current val score 0.6896
+Max val score 0.7661
+
+Epoch 177/200
+Total Loss 0.0857
+SI Loss 0.0749
+Current val score 0.7105
+Max val score 0.7661
+
+Epoch 178/200
+Total Loss 0.0862
+SI Loss 0.0747
+Current val score 0.7184
+Max val score 0.7661
+
+Epoch 179/200
+Total Loss 0.0857
+SI Loss 0.0741
+Current val score 0.7218
+Max val score 0.7661
+
+Epoch 180/200
+Total Loss 0.0843
+SI Loss 0.0740
+Current val score 0.7297
+Max val score 0.7661
+
+Epoch 181/200
+Total Loss 0.0807
+SI Loss 0.0728
+Current val score 0.7178
+Max val score 0.7661
+
+Epoch 182/200
+Total Loss 0.0814
+SI Loss 0.0722
+Current val score 0.7069
+Max val score 0.7661
+
+Epoch 183/200
+Total Loss 0.0806
+SI Loss 0.0711
+Current val score 0.7197
+Max val score 0.7661
+
+Epoch 184/200
+Total Loss 0.0796
+SI Loss 0.0705
+Current val score 0.7187
+Max val score 0.7661
+
+Epoch 185/200
+Total Loss 0.0798
+SI Loss 0.0705
+Current val score 0.7101
+Max val score 0.7661
+
+Epoch 186/200
+Total Loss 0.0765
+SI Loss 0.0696
+Current val score 0.7304
+Max val score 0.7661
+
+Epoch 187/200
+Total Loss 0.0735
+SI Loss 0.0676
+Current val score 0.7144
+Max val score 0.7661
+
+Epoch 188/200
+Total Loss 0.0722
+SI Loss 0.0659
+Current val score 0.7338
+Max val score 0.7661
+
+Epoch 189/200
+Total Loss 0.0759
+SI Loss 0.0659
+Current val score 0.7077
+Max val score 0.7661
+
+Epoch 190/200
+Total Loss 0.0776
+SI Loss 0.0672
+Current val score 0.6871
+Max val score 0.7661
+
+Epoch 191/200
+Total Loss 0.0772
+SI Loss 0.0675
+Current val score 0.6955
+Max val score 0.7661
+
+Epoch 192/200
+Total Loss 0.0774
+SI Loss 0.0676
+Current val score 0.7163
+Max val score 0.7661
+
+Epoch 193/200
+Total Loss 0.0810
+SI Loss 0.0683
+Current val score 0.7063
+Max val score 0.7661
+
+Epoch 194/200
+Total Loss 0.0819
+SI Loss 0.0701
+Current val score 0.6849
+Max val score 0.7661
+
+Epoch 195/200
+Total Loss 0.0800
+SI Loss 0.0700
+Current val score 0.6677
+Max val score 0.7661
+
+Epoch 196/200
+Total Loss 0.0804
+SI Loss 0.0704
+Current val score 0.7137
+Max val score 0.7661
+
+Epoch 197/200
+Total Loss 0.0867
+SI Loss 0.0716
+Current val score 0.6879
+Max val score 0.7661
+
+Epoch 198/200
+Total Loss 0.0910
+SI Loss 0.0745
+Current val score 0.6840
+Max val score 0.7661
+
+Epoch 199/200
+Total Loss 0.0849
+SI Loss 0.0744
+Current val score 0.6799
+Max val score 0.7661
+
+Epoch 200/200
+Total Loss 0.0821
+SI Loss 0.0736
+Current val score 0.6744
+Max val score 0.7661
+Task2 validation***************************************
+ Average WKTC over iterations 0.7455
+Task2 validation***************************************
+ Average WKTC over iterations 0.7632
+Task3*********************************************
+
+Epoch 1/200
+Total Loss 1.9280
+SI Loss 0.0293
+Current val score 0.5672save...
+
+Epoch 2/200
+Total Loss 0.8606
+SI Loss 0.0573
+Current val score 0.5918
+Max val score 0.5672save...
+
+Epoch 3/200
+Total Loss 0.4906
+SI Loss 0.0763
+Current val score 0.6211
+Max val score 0.5918save...
+
+Epoch 4/200
+Total Loss 0.3372
+SI Loss 0.0893
+Current val score 0.6233
+Max val score 0.6211save...
+
+Epoch 5/200
+Total Loss 0.2666
+SI Loss 0.0981
+Current val score 0.6294
+Max val score 0.6233save...
+
+Epoch 6/200
+Total Loss 0.2330
+SI Loss 0.1034
+Current val score 0.6390
+Max val score 0.6294save...
+
+Epoch 7/200
+Total Loss 0.2099
+SI Loss 0.1059
+Current val score 0.6419
+Max val score 0.6390save...
+
+Epoch 8/200
+Total Loss 0.1984
+SI Loss 0.1074
+Current val score 0.6475
+Max val score 0.6419save...
+
+Epoch 9/200
+Total Loss 0.1903
+SI Loss 0.1086
+Current val score 0.6345
+Max val score 0.6475
+
+Epoch 10/200
+Total Loss 0.1772
+SI Loss 0.1087
+Current val score 0.6587
+Max val score 0.6475save...
+
+Epoch 11/200
+Total Loss 0.1781
+SI Loss 0.1086
+Current val score 0.6640
+Max val score 0.6587save...
+
+Epoch 12/200
+Total Loss 0.1714
+SI Loss 0.1089
+Current val score 0.6539
+Max val score 0.6640
+
+Epoch 13/200
+Total Loss 0.1651
+SI Loss 0.1086
+Current val score 0.6553
+Max val score 0.6640
+
+Epoch 14/200
+Total Loss 0.1625
+SI Loss 0.1080
+Current val score 0.6698
+Max val score 0.6640save...
+
+Epoch 15/200
+Total Loss 0.1593
+SI Loss 0.1072
+Current val score 0.6556
+Max val score 0.6698
+
+Epoch 16/200
+Total Loss 0.1601
+SI Loss 0.1070
+Current val score 0.6531
+Max val score 0.6698
+
+Epoch 17/200
+Total Loss 0.1544
+SI Loss 0.1067
+Current val score 0.6490
+Max val score 0.6698
+
+Epoch 18/200
+Total Loss 0.1512
+SI Loss 0.1060
+Current val score 0.6537
+Max val score 0.6698
+
+Epoch 19/200
+Total Loss 0.1548
+SI Loss 0.1056
+Current val score 0.6623
+Max val score 0.6698
+
+Epoch 20/200
+Total Loss 0.1492
+SI Loss 0.1054
+Current val score 0.6625
+Max val score 0.6698
+
+Epoch 21/200
+Total Loss 0.1471
+SI Loss 0.1049
+Current val score 0.6634
+Max val score 0.6698
+
+Epoch 22/200
+Total Loss 0.1450
+SI Loss 0.1044
+Current val score 0.6554
+Max val score 0.6698
+
+Epoch 23/200
+Total Loss 0.1458
+SI Loss 0.1037
+Current val score 0.6578
+Max val score 0.6698
+
+Epoch 24/200
+Total Loss 0.1474
+SI Loss 0.1035
+Current val score 0.6632
+Max val score 0.6698
+
+Epoch 25/200
+Total Loss 0.1430
+SI Loss 0.1032
+Current val score 0.6656
+Max val score 0.6698
+
+Epoch 26/200
+Total Loss 0.1430
+SI Loss 0.1027
+Current val score 0.6695
+Max val score 0.6698
+
+Epoch 27/200
+Total Loss 0.1396
+SI Loss 0.1022
+Current val score 0.6853
+Max val score 0.6698save...
+
+Epoch 28/200
+Total Loss 0.1439
+SI Loss 0.1019
+Current val score 0.6577
+Max val score 0.6853
+
+Epoch 29/200
+Total Loss 0.1400
+SI Loss 0.1016
+Current val score 0.6665
+Max val score 0.6853
+
+Epoch 30/200
+Total Loss 0.1364
+SI Loss 0.1011
+Current val score 0.6687
+Max val score 0.6853
+
+Epoch 31/200
+Total Loss 0.1381
+SI Loss 0.1008
+Current val score 0.6714
+Max val score 0.6853
+
+Epoch 32/200
+Total Loss 0.1365
+SI Loss 0.1003
+Current val score 0.6791
+Max val score 0.6853
+
+Epoch 33/200
+Total Loss 0.1367
+SI Loss 0.0999
+Current val score 0.6790
+Max val score 0.6853
+
+Epoch 34/200
+Total Loss 0.1388
+SI Loss 0.0999
+Current val score 0.6528
+Max val score 0.6853
+
+Epoch 35/200
+Total Loss 0.1380
+SI Loss 0.0996
+Current val score 0.6736
+Max val score 0.6853
+
+Epoch 36/200
+Total Loss 0.1318
+SI Loss 0.0992
+Current val score 0.6745
+Max val score 0.6853
+
+Epoch 37/200
+Total Loss 0.1323
+SI Loss 0.0986
+Current val score 0.6848
+Max val score 0.6853
+
+Epoch 38/200
+Total Loss 0.1316
+SI Loss 0.0982
+Current val score 0.6838
+Max val score 0.6853
+
+Epoch 39/200
+Total Loss 0.1313
+SI Loss 0.0979
+Current val score 0.6815
+Max val score 0.6853
+
+Epoch 40/200
+Total Loss 0.1305
+SI Loss 0.0974
+Current val score 0.6739
+Max val score 0.6853
+
+Epoch 41/200
+Total Loss 0.1285
+SI Loss 0.0969
+Current val score 0.6818
+Max val score 0.6853
+
+Epoch 42/200
+Total Loss 0.1286
+SI Loss 0.0965
+Current val score 0.6738
+Max val score 0.6853
+
+Epoch 43/200
+Total Loss 0.1296
+SI Loss 0.0962
+Current val score 0.6747
+Max val score 0.6853
+
+Epoch 44/200
+Total Loss 0.1314
+SI Loss 0.0963
+Current val score 0.6764
+Max val score 0.6853
+
+Epoch 45/200
+Total Loss 0.1301
+SI Loss 0.0962
+Current val score 0.6761
+Max val score 0.6853
+
+Epoch 46/200
+Total Loss 0.1303
+SI Loss 0.0962
+Current val score 0.6790
+Max val score 0.6853
+
+Epoch 47/200
+Total Loss 0.1272
+SI Loss 0.0961
+Current val score 0.6688
+Max val score 0.6853
+
+Epoch 48/200
+Total Loss 0.1262
+SI Loss 0.0958
+Current val score 0.6846
+Max val score 0.6853
+
+Epoch 49/200
+Total Loss 0.1273
+SI Loss 0.0953
+Current val score 0.6782
+Max val score 0.6853
+
+Epoch 50/200
+Total Loss 0.1279
+SI Loss 0.0951
+Current val score 0.6755
+Max val score 0.6853
+
+Epoch 51/200
+Total Loss 0.1255
+SI Loss 0.0950
+Current val score 0.6828
+Max val score 0.6853
+
+Epoch 52/200
+Total Loss 0.1277
+SI Loss 0.0946
+Current val score 0.6947
+Max val score 0.6853save...
+
+Epoch 53/200
+Total Loss 0.1244
+SI Loss 0.0945
+Current val score 0.6949
+Max val score 0.6947save...
+
+Epoch 54/200
+Total Loss 0.1214
+SI Loss 0.0940
+Current val score 0.6892
+Max val score 0.6949
+
+Epoch 55/200
+Total Loss 0.1229
+SI Loss 0.0937
+Current val score 0.7001
+Max val score 0.6949save...
+
+Epoch 56/200
+Total Loss 0.1243
+SI Loss 0.0935
+Current val score 0.6886
+Max val score 0.7001
+
+Epoch 57/200
+Total Loss 0.1199
+SI Loss 0.0932
+Current val score 0.6849
+Max val score 0.7001
+
+Epoch 58/200
+Total Loss 0.1235
+SI Loss 0.0929
+Current val score 0.6925
+Max val score 0.7001
+
+Epoch 59/200
+Total Loss 0.1222
+SI Loss 0.0927
+Current val score 0.6923
+Max val score 0.7001
+
+Epoch 60/200
+Total Loss 0.1223
+SI Loss 0.0926
+Current val score 0.6914
+Max val score 0.7001
+
+Epoch 61/200
+Total Loss 0.1255
+SI Loss 0.0926
+Current val score 0.6897
+Max val score 0.7001
+
+Epoch 62/200
+Total Loss 0.1235
+SI Loss 0.0927
+Current val score 0.6861
+Max val score 0.7001
+
+Epoch 63/200
+Total Loss 0.1211
+SI Loss 0.0926
+Current val score 0.6886
+Max val score 0.7001
+
+Epoch 64/200
+Total Loss 0.1218
+SI Loss 0.0923
+Current val score 0.6900
+Max val score 0.7001
+
+Epoch 65/200
+Total Loss 0.1225
+SI Loss 0.0925
+Current val score 0.6897
+Max val score 0.7001
+
+Epoch 66/200
+Total Loss 0.1256
+SI Loss 0.0926
+Current val score 0.6927
+Max val score 0.7001
+
+Epoch 67/200
+Total Loss 0.1231
+SI Loss 0.0926
+Current val score 0.6931
+Max val score 0.7001
+
+Epoch 68/200
+Total Loss 0.1237
+SI Loss 0.0925
+Current val score 0.6922
+Max val score 0.7001
+
+Epoch 69/200
+Total Loss 0.1222
+SI Loss 0.0924
+Current val score 0.6842
+Max val score 0.7001
+
+Epoch 70/200
+Total Loss 0.1187
+SI Loss 0.0921
+Current val score 0.6888
+Max val score 0.7001
+
+Epoch 71/200
+Total Loss 0.1224
+SI Loss 0.0921
+Current val score 0.6970
+Max val score 0.7001
+
+Epoch 72/200
+Total Loss 0.1214
+SI Loss 0.0919
+Current val score 0.6826
+Max val score 0.7001
+
+Epoch 73/200
+Total Loss 0.1213
+SI Loss 0.0918
+Current val score 0.6836
+Max val score 0.7001
+
+Epoch 74/200
+Total Loss 0.1196
+SI Loss 0.0915
+Current val score 0.6861
+Max val score 0.7001
+
+Epoch 75/200
+Total Loss 0.1208
+SI Loss 0.0916
+Current val score 0.6841
+Max val score 0.7001
+
+Epoch 76/200
+Total Loss 0.1225
+SI Loss 0.0916
+Current val score 0.7003
+Max val score 0.7001save...
+
+Epoch 77/200
+Total Loss 0.1205
+SI Loss 0.0915
+Current val score 0.6860
+Max val score 0.7003
+
+Epoch 78/200
+Total Loss 0.1207
+SI Loss 0.0916
+Current val score 0.6805
+Max val score 0.7003
+
+Epoch 79/200
+Total Loss 0.1236
+SI Loss 0.0916
+Current val score 0.6893
+Max val score 0.7003
+
+Epoch 80/200
+Total Loss 0.1186
+SI Loss 0.0917
+Current val score 0.6837
+Max val score 0.7003
+
+Epoch 81/200
+Total Loss 0.1174
+SI Loss 0.0914
+Current val score 0.6909
+Max val score 0.7003
+
+Epoch 82/200
+Total Loss 0.1182
+SI Loss 0.0910
+Current val score 0.6884
+Max val score 0.7003
+
+Epoch 83/200
+Total Loss 0.1206
+SI Loss 0.0910
+Current val score 0.6929
+Max val score 0.7003
+
+Epoch 84/200
+Total Loss 0.1189
+SI Loss 0.0912
+Current val score 0.6842
+Max val score 0.7003
+
+Epoch 85/200
+Total Loss 0.1185
+SI Loss 0.0908
+Current val score 0.6837
+Max val score 0.7003
+
+Epoch 86/200
+Total Loss 0.1193
+SI Loss 0.0909
+Current val score 0.6868
+Max val score 0.7003
+
+Epoch 87/200
+Total Loss 0.1210
+SI Loss 0.0907
+Current val score 0.6821
+Max val score 0.7003
+
+Epoch 88/200
+Total Loss 0.1172
+SI Loss 0.0906
+Current val score 0.6859
+Max val score 0.7003
+
+Epoch 89/200
+Total Loss 0.1180
+SI Loss 0.0904
+Current val score 0.6895
+Max val score 0.7003
+
+Epoch 90/200
+Total Loss 0.1188
+SI Loss 0.0904
+Current val score 0.6992
+Max val score 0.7003
+
+Epoch 91/200
+Total Loss 0.1179
+SI Loss 0.0904
+Current val score 0.6945
+Max val score 0.7003
+
+Epoch 92/200
+Total Loss 0.1212
+SI Loss 0.0906
+Current val score 0.7041
+Max val score 0.7003save...
+
+Epoch 93/200
+Total Loss 0.1216
+SI Loss 0.0910
+Current val score 0.7117
+Max val score 0.7041save...
+
+Epoch 94/200
+Total Loss 0.1172
+SI Loss 0.0909
+Current val score 0.6949
+Max val score 0.7117
+
+Epoch 95/200
+Total Loss 0.1154
+SI Loss 0.0907
+Current val score 0.6983
+Max val score 0.7117
+
+Epoch 96/200
+Total Loss 0.1162
+SI Loss 0.0902
+Current val score 0.6972
+Max val score 0.7117
+
+Epoch 97/200
+Total Loss 0.1145
+SI Loss 0.0898
+Current val score 0.6965
+Max val score 0.7117
+
+Epoch 98/200
+Total Loss 0.1159
+SI Loss 0.0897
+Current val score 0.7055
+Max val score 0.7117
+
+Epoch 99/200
+Total Loss 0.1152
+SI Loss 0.0895
+Current val score 0.6994
+Max val score 0.7117
+
+Epoch 100/200
+Total Loss 0.1151
+SI Loss 0.0895
+Current val score 0.6955
+Max val score 0.7117
+
+Epoch 101/200
+Total Loss 0.1180
+SI Loss 0.0894
+Current val score 0.6975
+Max val score 0.7117
+
+Epoch 102/200
+Total Loss 0.1175
+SI Loss 0.0894
+Current val score 0.6995
+Max val score 0.7117
+
+Epoch 103/200
+Total Loss 0.1152
+SI Loss 0.0895
+Current val score 0.7036
+Max val score 0.7117
+
+Epoch 104/200
+Total Loss 0.1171
+SI Loss 0.0894
+Current val score 0.6984
+Max val score 0.7117
+
+Epoch 105/200
+Total Loss 0.1150
+SI Loss 0.0893
+Current val score 0.6988
+Max val score 0.7117
+
+Epoch 106/200
+Total Loss 0.1133
+SI Loss 0.0888
+Current val score 0.6993
+Max val score 0.7117
+
+Epoch 107/200
+Total Loss 0.1150
+SI Loss 0.0886
+Current val score 0.6745
+Max val score 0.7117
+
+Epoch 108/200
+Total Loss 0.1158
+SI Loss 0.0888
+Current val score 0.6931
+Max val score 0.7117
+
+Epoch 109/200
+Total Loss 0.1156
+SI Loss 0.0890
+Current val score 0.6939
+Max val score 0.7117
+
+Epoch 110/200
+Total Loss 0.1141
+SI Loss 0.0887
+Current val score 0.7023
+Max val score 0.7117
+
+Epoch 111/200
+Total Loss 0.1125
+SI Loss 0.0884
+Current val score 0.7085
+Max val score 0.7117
+
+Epoch 112/200
+Total Loss 0.1127
+SI Loss 0.0882
+Current val score 0.7078
+Max val score 0.7117
+
+Epoch 113/200
+Total Loss 0.1139
+SI Loss 0.0880
+Current val score 0.7027
+Max val score 0.7117
+
+Epoch 114/200
+Total Loss 0.1161
+SI Loss 0.0881
+Current val score 0.7113
+Max val score 0.7117
+
+Epoch 115/200
+Total Loss 0.1161
+SI Loss 0.0885
+Current val score 0.7087
+Max val score 0.7117
+
+Epoch 116/200
+Total Loss 0.1135
+SI Loss 0.0885
+Current val score 0.7116
+Max val score 0.7117
+
+Epoch 117/200
+Total Loss 0.1144
+SI Loss 0.0884
+Current val score 0.7133
+Max val score 0.7117save...
+
+Epoch 118/200
+Total Loss 0.1175
+SI Loss 0.0884
+Current val score 0.7163
+Max val score 0.7133save...
+
+Epoch 119/200
+Total Loss 0.1117
+SI Loss 0.0883
+Current val score 0.7161
+Max val score 0.7163
+
+Epoch 120/200
+Total Loss 0.1154
+SI Loss 0.0882
+Current val score 0.7079
+Max val score 0.7163
+
+Epoch 121/200
+Total Loss 0.1153
+SI Loss 0.0883
+Current val score 0.7132
+Max val score 0.7163
+
+Epoch 122/200
+Total Loss 0.1147
+SI Loss 0.0882
+Current val score 0.7094
+Max val score 0.7163
+
+Epoch 123/200
+Total Loss 0.1145
+SI Loss 0.0881
+Current val score 0.7024
+Max val score 0.7163
+
+Epoch 124/200
+Total Loss 0.1152
+SI Loss 0.0885
+Current val score 0.7343
+Max val score 0.7163save...
+
+Epoch 125/200
+Total Loss 0.1118
+SI Loss 0.0882
+Current val score 0.7107
+Max val score 0.7343
+
+Epoch 126/200
+Total Loss 0.1160
+SI Loss 0.0883
+Current val score 0.7219
+Max val score 0.7343
+
+Epoch 127/200
+Total Loss 0.1157
+SI Loss 0.0883
+Current val score 0.7173
+Max val score 0.7343
+
+Epoch 128/200
+Total Loss 0.1179
+SI Loss 0.0885
+Current val score 0.7023
+Max val score 0.7343
+
+Epoch 129/200
+Total Loss 0.1137
+SI Loss 0.0886
+Current val score 0.7028
+Max val score 0.7343
+
+Epoch 130/200
+Total Loss 0.1121
+SI Loss 0.0886
+Current val score 0.7135
+Max val score 0.7343
+
+Epoch 131/200
+Total Loss 0.1145
+SI Loss 0.0885
+Current val score 0.7191
+Max val score 0.7343
+
+Epoch 132/200
+Total Loss 0.1144
+SI Loss 0.0885
+Current val score 0.7018
+Max val score 0.7343
+
+Epoch 133/200
+Total Loss 0.1145
+SI Loss 0.0886
+Current val score 0.7109
+Max val score 0.7343
+
+Epoch 134/200
+Total Loss 0.1124
+SI Loss 0.0884
+Current val score 0.7094
+Max val score 0.7343
+
+Epoch 135/200
+Total Loss 0.1131
+SI Loss 0.0882
+Current val score 0.6996
+Max val score 0.7343
+
+Epoch 136/200
+Total Loss 0.1186
+SI Loss 0.0886
+Current val score 0.7093
+Max val score 0.7343
+
+Epoch 137/200
+Total Loss 0.1144
+SI Loss 0.0888
+Current val score 0.6992
+Max val score 0.7343
+
+Epoch 138/200
+Total Loss 0.1172
+SI Loss 0.0891
+Current val score 0.7098
+Max val score 0.7343
+
+Epoch 139/200
+Total Loss 0.1162
+SI Loss 0.0889
+Current val score 0.7029
+Max val score 0.7343
+
+Epoch 140/200
+Total Loss 0.1143
+SI Loss 0.0890
+Current val score 0.7026
+Max val score 0.7343
+
+Epoch 141/200
+Total Loss 0.1109
+SI Loss 0.0887
+Current val score 0.7059
+Max val score 0.7343
+
+Epoch 142/200
+Total Loss 0.1145
+SI Loss 0.0883
+Current val score 0.7090
+Max val score 0.7343
+
+Epoch 143/200
+Total Loss 0.1139
+SI Loss 0.0882
+Current val score 0.7118
+Max val score 0.7343
+
+Epoch 144/200
+Total Loss 0.1134
+SI Loss 0.0882
+Current val score 0.7098
+Max val score 0.7343
+
+Epoch 145/200
+Total Loss 0.1119
+SI Loss 0.0881
+Current val score 0.7025
+Max val score 0.7343
+
+Epoch 146/200
+Total Loss 0.1120
+SI Loss 0.0880
+Current val score 0.6928
+Max val score 0.7343
+
+Epoch 147/200
+Total Loss 0.1121
+SI Loss 0.0877
+Current val score 0.7151
+Max val score 0.7343
+
+Epoch 148/200
+Total Loss 0.1118
+SI Loss 0.0877
+Current val score 0.7220
+Max val score 0.7343
+
+Epoch 149/200
+Total Loss 0.1128
+SI Loss 0.0877
+Current val score 0.7019
+Max val score 0.7343
+
+Epoch 150/200
+Total Loss 0.1123
+SI Loss 0.0873
+Current val score 0.6952
+Max val score 0.7343
+
+Epoch 151/200
+Total Loss 0.1122
+SI Loss 0.0874
+Current val score 0.7178
+Max val score 0.7343
+
+Epoch 152/200
+Total Loss 0.1120
+SI Loss 0.0872
+Current val score 0.7139
+Max val score 0.7343
+
+Epoch 153/200
+Total Loss 0.1164
+SI Loss 0.0877
+Current val score 0.7006
+Max val score 0.7343
+
+Epoch 154/200
+Total Loss 0.1122
+SI Loss 0.0879
+Current val score 0.7078
+Max val score 0.7343
+
+Epoch 155/200
+Total Loss 0.1106
+SI Loss 0.0877
+Current val score 0.7148
+Max val score 0.7343
+
+Epoch 156/200
+Total Loss 0.1128
+SI Loss 0.0876
+Current val score 0.7134
+Max val score 0.7343
+
+Epoch 157/200
+Total Loss 0.1134
+SI Loss 0.0875
+Current val score 0.7019
+Max val score 0.7343
+
+Epoch 158/200
+Total Loss 0.1123
+SI Loss 0.0876
+Current val score 0.7096
+Max val score 0.7343
+
+Epoch 159/200
+Total Loss 0.1093
+SI Loss 0.0874
+Current val score 0.7103
+Max val score 0.7343
+
+Epoch 160/200
+Total Loss 0.1116
+SI Loss 0.0870
+Current val score 0.7154
+Max val score 0.7343
+
+Epoch 161/200
+Total Loss 0.1125
+SI Loss 0.0872
+Current val score 0.7121
+Max val score 0.7343
+
+Epoch 162/200
+Total Loss 0.1114
+SI Loss 0.0872
+Current val score 0.7035
+Max val score 0.7343
+
+Epoch 163/200
+Total Loss 0.1117
+SI Loss 0.0872
+Current val score 0.6932
+Max val score 0.7343
+
+Epoch 164/200
+Total Loss 0.1129
+SI Loss 0.0874
+Current val score 0.7163
+Max val score 0.7343
+
+Epoch 165/200
+Total Loss 0.1169
+SI Loss 0.0878
+Current val score 0.6974
+Max val score 0.7343
+
+Epoch 166/200
+Total Loss 0.1110
+SI Loss 0.0877
+Current val score 0.7085
+Max val score 0.7343
+
+Epoch 167/200
+Total Loss 0.1106
+SI Loss 0.0874
+Current val score 0.6988
+Max val score 0.7343
+
+Epoch 168/200
+Total Loss 0.1117
+SI Loss 0.0873
+Current val score 0.7181
+Max val score 0.7343
+
+Epoch 169/200
+Total Loss 0.1133
+SI Loss 0.0873
+Current val score 0.6995
+Max val score 0.7343
+
+Epoch 170/200
+Total Loss 0.1132
+SI Loss 0.0873
+Current val score 0.6989
+Max val score 0.7343
+
+Epoch 171/200
+Total Loss 0.1112
+SI Loss 0.0871
+Current val score 0.7015
+Max val score 0.7343
+
+Epoch 172/200
+Total Loss 0.1142
+SI Loss 0.0872
+Current val score 0.7113
+Max val score 0.7343
+
+Epoch 173/200
+Total Loss 0.1133
+SI Loss 0.0875
+Current val score 0.7001
+Max val score 0.7343
+
+Epoch 174/200
+Total Loss 0.1112
+SI Loss 0.0875
+Current val score 0.7239
+Max val score 0.7343
+
+Epoch 175/200
+Total Loss 0.1117
+SI Loss 0.0874
+Current val score 0.7042
+Max val score 0.7343
+
+Epoch 176/200
+Total Loss 0.1130
+SI Loss 0.0876
+Current val score 0.7110
+Max val score 0.7343
+
+Epoch 177/200
+Total Loss 0.1149
+SI Loss 0.0878
+Current val score 0.7046
+Max val score 0.7343
+
+Epoch 178/200
+Total Loss 0.1120
+SI Loss 0.0879
+Current val score 0.7158
+Max val score 0.7343
+
+Epoch 179/200
+Total Loss 0.1128
+SI Loss 0.0878
+Current val score 0.7091
+Max val score 0.7343
+
+Epoch 180/200
+Total Loss 0.1105
+SI Loss 0.0877
+Current val score 0.7151
+Max val score 0.7343
+
+Epoch 181/200
+Total Loss 0.1116
+SI Loss 0.0875
+Current val score 0.7120
+Max val score 0.7343
+
+Epoch 182/200
+Total Loss 0.1113
+SI Loss 0.0875
+Current val score 0.7046
+Max val score 0.7343
+
+Epoch 183/200
+Total Loss 0.1146
+SI Loss 0.0876
+Current val score 0.6985
+Max val score 0.7343
+
+Epoch 184/200
+Total Loss 0.1115
+SI Loss 0.0876
+Current val score 0.7092
+Max val score 0.7343
+
+Epoch 185/200
+Total Loss 0.1160
+SI Loss 0.0876
+Current val score 0.7011
+Max val score 0.7343
+
+Epoch 186/200
+Total Loss 0.1114
+SI Loss 0.0881
+Current val score 0.7126
+Max val score 0.7343
+
+Epoch 187/200
+Total Loss 0.1139
+SI Loss 0.0880
+Current val score 0.7126
+Max val score 0.7343
+
+Epoch 188/200
+Total Loss 0.1115
+SI Loss 0.0880
+Current val score 0.7129
+Max val score 0.7343
+
+Epoch 189/200
+Total Loss 0.1095
+SI Loss 0.0875
+Current val score 0.7237
+Max val score 0.7343
+
+Epoch 190/200
+Total Loss 0.1116
+SI Loss 0.0874
+Current val score 0.7261
+Max val score 0.7343
+
+Epoch 191/200
+Total Loss 0.1104
+SI Loss 0.0873
+Current val score 0.7105
+Max val score 0.7343
+
+Epoch 192/200
+Total Loss 0.1085
+SI Loss 0.0869
+Current val score 0.6988
+Max val score 0.7343
+
+Epoch 193/200
+Total Loss 0.1105
+SI Loss 0.0866
+Current val score 0.7076
+Max val score 0.7343
+
+Epoch 194/200
+Total Loss 0.1077
+SI Loss 0.0864
+Current val score 0.6939
+Max val score 0.7343
+
+Epoch 195/200
+Total Loss 0.1140
+SI Loss 0.0866
+Current val score 0.7051
+Max val score 0.7343
+
+Epoch 196/200
+Total Loss 0.1132
+SI Loss 0.0870
+Current val score 0.6985
+Max val score 0.7343
+
+Epoch 197/200
+Total Loss 0.1128
+SI Loss 0.0872
+Current val score 0.6979
+Max val score 0.7343
+
+Epoch 198/200
+Total Loss 0.1125
+SI Loss 0.0872
+Current val score 0.7106
+Max val score 0.7343
+
+Epoch 199/200
+Total Loss 0.1133
+SI Loss 0.0873
+Current val score 0.7106
+Max val score 0.7343
+
+Epoch 200/200
+Total Loss 0.1098
+SI Loss 0.0871
+Current val score 0.7037
+Max val score 0.7343
+Task3 validation***************************************
+ Average WKTC over iterations 0.8064
+Task3 validation***************************************
+ Average WKTC over iterations 0.6097
+Task3 validation***************************************
+ Average WKTC over iterations 0.7768
+Task4*********************************************
+
+Epoch 1/200
+Total Loss 1.7374
+SI Loss 0.0221
+Current val score 0.6419save...
+
+Epoch 2/200
+Total Loss 0.6920
+SI Loss 0.0483
+Current val score 0.6747
+Max val score 0.6419save...
+
+Epoch 3/200
+Total Loss 0.3850
+SI Loss 0.0663
+Current val score 0.6742
+Max val score 0.6747
+
+Epoch 4/200
+Total Loss 0.2711
+SI Loss 0.0776
+Current val score 0.6988
+Max val score 0.6747save...
+
+Epoch 5/200
+Total Loss 0.2160
+SI Loss 0.0837
+Current val score 0.6982
+Max val score 0.6988
+
+Epoch 6/200
+Total Loss 0.1923
+SI Loss 0.0872
+Current val score 0.6947
+Max val score 0.6988
+
+Epoch 7/200
+Total Loss 0.1767
+SI Loss 0.0892
+Current val score 0.6936
+Max val score 0.6988
+
+Epoch 8/200
+Total Loss 0.1694
+SI Loss 0.0906
+Current val score 0.7000
+Max val score 0.6988save...
+
+Epoch 9/200
+Total Loss 0.1603
+SI Loss 0.0914
+Current val score 0.6832
+Max val score 0.7000
+
+Epoch 10/200
+Total Loss 0.1539
+SI Loss 0.0918
+Current val score 0.6976
+Max val score 0.7000
+
+Epoch 11/200
+Total Loss 0.1448
+SI Loss 0.0917
+Current val score 0.6960
+Max val score 0.7000
+
+Epoch 12/200
+Total Loss 0.1456
+SI Loss 0.0916
+Current val score 0.7094
+Max val score 0.7000save...
+
+Epoch 13/200
+Total Loss 0.1392
+SI Loss 0.0915
+Current val score 0.7018
+Max val score 0.7094
+
+Epoch 14/200
+Total Loss 0.1389
+SI Loss 0.0913
+Current val score 0.7017
+Max val score 0.7094
+
+Epoch 15/200
+Total Loss 0.1395
+SI Loss 0.0911
+Current val score 0.7030
+Max val score 0.7094
+
+Epoch 16/200
+Total Loss 0.1332
+SI Loss 0.0907
+Current val score 0.7091
+Max val score 0.7094
+
+Epoch 17/200
+Total Loss 0.1340
+SI Loss 0.0904
+Current val score 0.6982
+Max val score 0.7094
+
+Epoch 18/200
+Total Loss 0.1305
+SI Loss 0.0904
+Current val score 0.7053
+Max val score 0.7094
+
+Epoch 19/200
+Total Loss 0.1298
+SI Loss 0.0902
+Current val score 0.7101
+Max val score 0.7094save...
+
+Epoch 20/200
+Total Loss 0.1250
+SI Loss 0.0895
+Current val score 0.7080
+Max val score 0.7101
+
+Epoch 21/200
+Total Loss 0.1288
+SI Loss 0.0890
+Current val score 0.7083
+Max val score 0.7101
+
+Epoch 22/200
+Total Loss 0.1276
+SI Loss 0.0889
+Current val score 0.7142
+Max val score 0.7101save...
+
+Epoch 23/200
+Total Loss 0.1259
+SI Loss 0.0886
+Current val score 0.7172
+Max val score 0.7142save...
+
+Epoch 24/200
+Total Loss 0.1231
+SI Loss 0.0884
+Current val score 0.7126
+Max val score 0.7172
+
+Epoch 25/200
+Total Loss 0.1218
+SI Loss 0.0880
+Current val score 0.7098
+Max val score 0.7172
+
+Epoch 26/200
+Total Loss 0.1236
+SI Loss 0.0877
+Current val score 0.7131
+Max val score 0.7172
+
+Epoch 27/200
+Total Loss 0.1201
+SI Loss 0.0873
+Current val score 0.7139
+Max val score 0.7172
+
+Epoch 28/200
+Total Loss 0.1205
+SI Loss 0.0870
+Current val score 0.7090
+Max val score 0.7172
+
+Epoch 29/200
+Total Loss 0.1212
+SI Loss 0.0866
+Current val score 0.7095
+Max val score 0.7172
+
+Epoch 30/200
+Total Loss 0.1180
+SI Loss 0.0867
+Current val score 0.7201
+Max val score 0.7172save...
+
+Epoch 31/200
+Total Loss 0.1182
+SI Loss 0.0865
+Current val score 0.7211
+Max val score 0.7201save...
+
+Epoch 32/200
+Total Loss 0.1184
+SI Loss 0.0861
+Current val score 0.7172
+Max val score 0.7211
+
+Epoch 33/200
+Total Loss 0.1166
+SI Loss 0.0857
+Current val score 0.7065
+Max val score 0.7211
+
+Epoch 34/200
+Total Loss 0.1177
+SI Loss 0.0855
+Current val score 0.7077
+Max val score 0.7211
+
+Epoch 35/200
+Total Loss 0.1151
+SI Loss 0.0852
+Current val score 0.7019
+Max val score 0.7211
+
+Epoch 36/200
+Total Loss 0.1131
+SI Loss 0.0850
+Current val score 0.7150
+Max val score 0.7211
+
+Epoch 37/200
+Total Loss 0.1147
+SI Loss 0.0846
+Current val score 0.7129
+Max val score 0.7211
+
+Epoch 38/200
+Total Loss 0.1137
+SI Loss 0.0844
+Current val score 0.7133
+Max val score 0.7211
+
+Epoch 39/200
+Total Loss 0.1117
+SI Loss 0.0841
+Current val score 0.7185
+Max val score 0.7211
+
+Epoch 40/200
+Total Loss 0.1122
+SI Loss 0.0836
+Current val score 0.7091
+Max val score 0.7211
+
+Epoch 41/200
+Total Loss 0.1107
+SI Loss 0.0833
+Current val score 0.7141
+Max val score 0.7211
+
+Epoch 42/200
+Total Loss 0.1121
+SI Loss 0.0831
+Current val score 0.7111
+Max val score 0.7211
+
+Epoch 43/200
+Total Loss 0.1088
+SI Loss 0.0829
+Current val score 0.7164
+Max val score 0.7211
+
+Epoch 44/200
+Total Loss 0.1102
+SI Loss 0.0826
+Current val score 0.7083
+Max val score 0.7211
+
+Epoch 45/200
+Total Loss 0.1158
+SI Loss 0.0825
+Current val score 0.7183
+Max val score 0.7211
+
+Epoch 46/200
+Total Loss 0.1132
+SI Loss 0.0827
+Current val score 0.7245
+Max val score 0.7211save...
+
+Epoch 47/200
+Total Loss 0.1124
+SI Loss 0.0829
+Current val score 0.7128
+Max val score 0.7245
+
+Epoch 48/200
+Total Loss 0.1094
+SI Loss 0.0827
+Current val score 0.7106
+Max val score 0.7245
+
+Epoch 49/200
+Total Loss 0.1128
+SI Loss 0.0826
+Current val score 0.7125
+Max val score 0.7245
+
+Epoch 50/200
+Total Loss 0.1096
+SI Loss 0.0824
+Current val score 0.7227
+Max val score 0.7245
+
+Epoch 51/200
+Total Loss 0.1066
+SI Loss 0.0821
+Current val score 0.7199
+Max val score 0.7245
+
+Epoch 52/200
+Total Loss 0.1101
+SI Loss 0.0817
+Current val score 0.7216
+Max val score 0.7245
+
+Epoch 53/200
+Total Loss 0.1102
+SI Loss 0.0817
+Current val score 0.7144
+Max val score 0.7245
+
+Epoch 54/200
+Total Loss 0.1061
+SI Loss 0.0814
+Current val score 0.7221
+Max val score 0.7245
+
+Epoch 55/200
+Total Loss 0.1060
+SI Loss 0.0810
+Current val score 0.7160
+Max val score 0.7245
+
+Epoch 56/200
+Total Loss 0.1066
+SI Loss 0.0809
+Current val score 0.7248
+Max val score 0.7245save...
+
+Epoch 57/200
+Total Loss 0.1064
+SI Loss 0.0806
+Current val score 0.7151
+Max val score 0.7248
+
+Epoch 58/200
+Total Loss 0.1066
+SI Loss 0.0803
+Current val score 0.7132
+Max val score 0.7248
+
+Epoch 59/200
+Total Loss 0.1086
+SI Loss 0.0806
+Current val score 0.7144
+Max val score 0.7248
+
+Epoch 60/200
+Total Loss 0.1100
+SI Loss 0.0806
+Current val score 0.7073
+Max val score 0.7248
+
+Epoch 61/200
+Total Loss 0.1085
+SI Loss 0.0809
+Current val score 0.7123
+Max val score 0.7248
+
+Epoch 62/200
+Total Loss 0.1066
+SI Loss 0.0808
+Current val score 0.7044
+Max val score 0.7248
+
+Epoch 63/200
+Total Loss 0.1061
+SI Loss 0.0805
+Current val score 0.7254
+Max val score 0.7248save...
+
+Epoch 64/200
+Total Loss 0.1068
+SI Loss 0.0805
+Current val score 0.7193
+Max val score 0.7254
+
+Epoch 65/200
+Total Loss 0.1074
+SI Loss 0.0803
+Current val score 0.7146
+Max val score 0.7254
+
+Epoch 66/200
+Total Loss 0.1069
+SI Loss 0.0803
+Current val score 0.7262
+Max val score 0.7254save...
+
+Epoch 67/200
+Total Loss 0.1084
+SI Loss 0.0804
+Current val score 0.7149
+Max val score 0.7262
+
+Epoch 68/200
+Total Loss 0.1062
+SI Loss 0.0804
+Current val score 0.7107
+Max val score 0.7262
+
+Epoch 69/200
+Total Loss 0.1046
+SI Loss 0.0804
+Current val score 0.7105
+Max val score 0.7262
+
+Epoch 70/200
+Total Loss 0.1036
+SI Loss 0.0799
+Current val score 0.7098
+Max val score 0.7262
+
+Epoch 71/200
+Total Loss 0.1058
+SI Loss 0.0797
+Current val score 0.7183
+Max val score 0.7262
+
+Epoch 72/200
+Total Loss 0.1082
+SI Loss 0.0798
+Current val score 0.7178
+Max val score 0.7262
+
+Epoch 73/200
+Total Loss 0.1049
+SI Loss 0.0800
+Current val score 0.7187
+Max val score 0.7262
+
+Epoch 74/200
+Total Loss 0.1060
+SI Loss 0.0799
+Current val score 0.7083
+Max val score 0.7262
+
+Epoch 75/200
+Total Loss 0.1047
+SI Loss 0.0797
+Current val score 0.7151
+Max val score 0.7262
+
+Epoch 76/200
+Total Loss 0.1047
+SI Loss 0.0795
+Current val score 0.7198
+Max val score 0.7262
+
+Epoch 77/200
+Total Loss 0.1058
+SI Loss 0.0796
+Current val score 0.7132
+Max val score 0.7262
+
+Epoch 78/200
+Total Loss 0.1018
+SI Loss 0.0794
+Current val score 0.7104
+Max val score 0.7262
+
+Epoch 79/200
+Total Loss 0.1041
+SI Loss 0.0793
+Current val score 0.7196
+Max val score 0.7262
+
+Epoch 80/200
+Total Loss 0.1037
+SI Loss 0.0791
+Current val score 0.7096
+Max val score 0.7262
+
+Epoch 81/200
+Total Loss 0.1005
+SI Loss 0.0788
+Current val score 0.7157
+Max val score 0.7262
+
+Epoch 82/200
+Total Loss 0.1034
+SI Loss 0.0787
+Current val score 0.7099
+Max val score 0.7262
+
+Epoch 83/200
+Total Loss 0.1044
+SI Loss 0.0788
+Current val score 0.7158
+Max val score 0.7262
+
+Epoch 84/200
+Total Loss 0.1047
+SI Loss 0.0787
+Current val score 0.7074
+Max val score 0.7262
+
+Epoch 85/200
+Total Loss 0.1016
+SI Loss 0.0787
+Current val score 0.7033
+Max val score 0.7262
+
+Epoch 86/200
+Total Loss 0.1014
+SI Loss 0.0784
+Current val score 0.6985
+Max val score 0.7262
+
+Epoch 87/200
+Total Loss 0.1028
+SI Loss 0.0783
+Current val score 0.7043
+Max val score 0.7262
+
+Epoch 88/200
+Total Loss 0.1010
+SI Loss 0.0780
+Current val score 0.7065
+Max val score 0.7262
+
+Epoch 89/200
+Total Loss 0.1016
+SI Loss 0.0781
+Current val score 0.7195
+Max val score 0.7262
+
+Epoch 90/200
+Total Loss 0.1008
+SI Loss 0.0781
+Current val score 0.7093
+Max val score 0.7262
+
+Epoch 91/200
+Total Loss 0.1009
+SI Loss 0.0779
+Current val score 0.7145
+Max val score 0.7262
+
+Epoch 92/200
+Total Loss 0.1029
+SI Loss 0.0779
+Current val score 0.7080
+Max val score 0.7262
+
+Epoch 93/200
+Total Loss 0.1020
+SI Loss 0.0780
+Current val score 0.7110
+Max val score 0.7262
+
+Epoch 94/200
+Total Loss 0.1006
+SI Loss 0.0778
+Current val score 0.7003
+Max val score 0.7262
+
+Epoch 95/200
+Total Loss 0.1019
+SI Loss 0.0777
+Current val score 0.7091
+Max val score 0.7262
+
+Epoch 96/200
+Total Loss 0.0993
+SI Loss 0.0777
+Current val score 0.7080
+Max val score 0.7262
+
+Epoch 97/200
+Total Loss 0.0985
+SI Loss 0.0774
+Current val score 0.7172
+Max val score 0.7262
+
+Epoch 98/200
+Total Loss 0.1016
+SI Loss 0.0775
+Current val score 0.6993
+Max val score 0.7262
+
+Epoch 99/200
+Total Loss 0.1015
+SI Loss 0.0774
+Current val score 0.7139
+Max val score 0.7262
+
+Epoch 100/200
+Total Loss 0.1008
+SI Loss 0.0777
+Current val score 0.7042
+Max val score 0.7262
+
+Epoch 101/200
+Total Loss 0.1019
+SI Loss 0.0777
+Current val score 0.7077
+Max val score 0.7262
+
+Epoch 102/200
+Total Loss 0.0984
+SI Loss 0.0775
+Current val score 0.7159
+Max val score 0.7262
+
+Epoch 103/200
+Total Loss 0.1013
+SI Loss 0.0774
+Current val score 0.7115
+Max val score 0.7262
+
+Epoch 104/200
+Total Loss 0.1031
+SI Loss 0.0777
+Current val score 0.7056
+Max val score 0.7262
+
+Epoch 105/200
+Total Loss 0.0994
+SI Loss 0.0774
+Current val score 0.7105
+Max val score 0.7262
+
+Epoch 106/200
+Total Loss 0.0994
+SI Loss 0.0773
+Current val score 0.7059
+Max val score 0.7262
+
+Epoch 107/200
+Total Loss 0.1028
+SI Loss 0.0775
+Current val score 0.7126
+Max val score 0.7262
+
+Epoch 108/200
+Total Loss 0.1009
+SI Loss 0.0775
+Current val score 0.7088
+Max val score 0.7262
+
+Epoch 109/200
+Total Loss 0.1016
+SI Loss 0.0778
+Current val score 0.7097
+Max val score 0.7262
+
+Epoch 110/200
+Total Loss 0.1016
+SI Loss 0.0776
+Current val score 0.7181
+Max val score 0.7262
+
+Epoch 111/200
+Total Loss 0.0988
+SI Loss 0.0777
+Current val score 0.7098
+Max val score 0.7262
+
+Epoch 112/200
+Total Loss 0.1017
+SI Loss 0.0774
+Current val score 0.7129
+Max val score 0.7262
+
+Epoch 113/200
+Total Loss 0.0993
+SI Loss 0.0775
+Current val score 0.7091
+Max val score 0.7262
+
+Epoch 114/200
+Total Loss 0.0988
+SI Loss 0.0772
+Current val score 0.7119
+Max val score 0.7262
+
+Epoch 115/200
+Total Loss 0.0997
+SI Loss 0.0769
+Current val score 0.7132
+Max val score 0.7262
+
+Epoch 116/200
+Total Loss 0.1001
+SI Loss 0.0769
+Current val score 0.7136
+Max val score 0.7262
+
+Epoch 117/200
+Total Loss 0.1007
+SI Loss 0.0768
+Current val score 0.7075
+Max val score 0.7262
+
+Epoch 118/200
+Total Loss 0.0968
+SI Loss 0.0769
+Current val score 0.7120
+Max val score 0.7262
+
+Epoch 119/200
+Total Loss 0.1007
+SI Loss 0.0767
+Current val score 0.7035
+Max val score 0.7262
+
+Epoch 120/200
+Total Loss 0.0996
+SI Loss 0.0767
+Current val score 0.7097
+Max val score 0.7262
+
+Epoch 121/200
+Total Loss 0.1028
+SI Loss 0.0770
+Current val score 0.7039
+Max val score 0.7262
+
+Epoch 122/200
+Total Loss 0.0983
+SI Loss 0.0770
+Current val score 0.7155
+Max val score 0.7262
+
+Epoch 123/200
+Total Loss 0.0990
+SI Loss 0.0768
+Current val score 0.7053
+Max val score 0.7262
+
+Epoch 124/200
+Total Loss 0.1011
+SI Loss 0.0769
+Current val score 0.7136
+Max val score 0.7262
+
+Epoch 125/200
+Total Loss 0.0992
+SI Loss 0.0768
+Current val score 0.7152
+Max val score 0.7262
+
+Epoch 126/200
+Total Loss 0.0975
+SI Loss 0.0769
+Current val score 0.7129
+Max val score 0.7262
+
+Epoch 127/200
+Total Loss 0.0983
+SI Loss 0.0767
+Current val score 0.7128
+Max val score 0.7262
+
+Epoch 128/200
+Total Loss 0.0991
+SI Loss 0.0766
+Current val score 0.7090
+Max val score 0.7262
+
+Epoch 129/200
+Total Loss 0.1001
+SI Loss 0.0768
+Current val score 0.7063
+Max val score 0.7262
+
+Epoch 130/200
+Total Loss 0.0988
+SI Loss 0.0767
+Current val score 0.7087
+Max val score 0.7262
+
+Epoch 131/200
+Total Loss 0.0992
+SI Loss 0.0767
+Current val score 0.7052
+Max val score 0.7262
+
+Epoch 132/200
+Total Loss 0.1012
+SI Loss 0.0770
+Current val score 0.7197
+Max val score 0.7262
+
+Epoch 133/200
+Total Loss 0.0970
+SI Loss 0.0770
+Current val score 0.7124
+Max val score 0.7262
+
+Epoch 134/200
+Total Loss 0.0985
+SI Loss 0.0767
+Current val score 0.7073
+Max val score 0.7262
+
+Epoch 135/200
+Total Loss 0.0970
+SI Loss 0.0764
+Current val score 0.7237
+Max val score 0.7262
+
+Epoch 136/200
+Total Loss 0.0985
+SI Loss 0.0765
+Current val score 0.7042
+Max val score 0.7262
+
+Epoch 137/200
+Total Loss 0.1010
+SI Loss 0.0765
+Current val score 0.7207
+Max val score 0.7262
+
+Epoch 138/200
+Total Loss 0.0990
+SI Loss 0.0768
+Current val score 0.7152
+Max val score 0.7262
+
+Epoch 139/200
+Total Loss 0.0976
+SI Loss 0.0768
+Current val score 0.7086
+Max val score 0.7262
+
+Epoch 140/200
+Total Loss 0.0962
+SI Loss 0.0764
+Current val score 0.7166
+Max val score 0.7262
+
+Epoch 141/200
+Total Loss 0.0981
+SI Loss 0.0764
+Current val score 0.7131
+Max val score 0.7262
+
+Epoch 142/200
+Total Loss 0.0993
+SI Loss 0.0763
+Current val score 0.7097
+Max val score 0.7262
+
+Epoch 143/200
+Total Loss 0.1011
+SI Loss 0.0767
+Current val score 0.7125
+Max val score 0.7262
+
+Epoch 144/200
+Total Loss 0.0959
+SI Loss 0.0766
+Current val score 0.7148
+Max val score 0.7262
+
+Epoch 145/200
+Total Loss 0.1012
+SI Loss 0.0765
+Current val score 0.7268
+Max val score 0.7262save...
+
+Epoch 146/200
+Total Loss 0.1002
+SI Loss 0.0766
+Current val score 0.7211
+Max val score 0.7268
+
+Epoch 147/200
+Total Loss 0.0962
+SI Loss 0.0764
+Current val score 0.7087
+Max val score 0.7268
+
+Epoch 148/200
+Total Loss 0.0986
+SI Loss 0.0765
+Current val score 0.7018
+Max val score 0.7268
+
+Epoch 149/200
+Total Loss 0.1002
+SI Loss 0.0766
+Current val score 0.7093
+Max val score 0.7268
+
+Epoch 150/200
+Total Loss 0.0976
+SI Loss 0.0766
+Current val score 0.7163
+Max val score 0.7268
+
+Epoch 151/200
+Total Loss 0.0975
+SI Loss 0.0766
+Current val score 0.7166
+Max val score 0.7268
+
+Epoch 152/200
+Total Loss 0.1026
+SI Loss 0.0765
+Current val score 0.7249
+Max val score 0.7268
+
+Epoch 153/200
+Total Loss 0.0999
+SI Loss 0.0770
+Current val score 0.7171
+Max val score 0.7268
+
+Epoch 154/200
+Total Loss 0.0985
+SI Loss 0.0770
+Current val score 0.7175
+Max val score 0.7268
+
+Epoch 155/200
+Total Loss 0.0980
+SI Loss 0.0769
+Current val score 0.7172
+Max val score 0.7268
+
+Epoch 156/200
+Total Loss 0.0960
+SI Loss 0.0765
+Current val score 0.7099
+Max val score 0.7268
+
+Epoch 157/200
+Total Loss 0.0979
+SI Loss 0.0764
+Current val score 0.7124
+Max val score 0.7268
+
+Epoch 158/200
+Total Loss 0.0992
+SI Loss 0.0763
+Current val score 0.7202
+Max val score 0.7268
+
+Epoch 159/200
+Total Loss 0.0972
+SI Loss 0.0762
+Current val score 0.7083
+Max val score 0.7268
+
+Epoch 160/200
+Total Loss 0.0965
+SI Loss 0.0761
+Current val score 0.7198
+Max val score 0.7268
+
+Epoch 161/200
+Total Loss 0.0986
+SI Loss 0.0761
+Current val score 0.7273
+Max val score 0.7268save...
+
+Epoch 162/200
+Total Loss 0.0991
+SI Loss 0.0765
+Current val score 0.7176
+Max val score 0.7273
+
+Epoch 163/200
+Total Loss 0.0998
+SI Loss 0.0764
+Current val score 0.7220
+Max val score 0.7273
+
+Epoch 164/200
+Total Loss 0.0963
+SI Loss 0.0763
+Current val score 0.7140
+Max val score 0.7273
+
+Epoch 165/200
+Total Loss 0.0972
+SI Loss 0.0761
+Current val score 0.7140
+Max val score 0.7273
+
+Epoch 166/200
+Total Loss 0.0980
+SI Loss 0.0762
+Current val score 0.7179
+Max val score 0.7273
+
+Epoch 167/200
+Total Loss 0.0975
+SI Loss 0.0761
+Current val score 0.7138
+Max val score 0.7273
+
+Epoch 168/200
+Total Loss 0.0986
+SI Loss 0.0762
+Current val score 0.7157
+Max val score 0.7273
+
+Epoch 169/200
+Total Loss 0.0972
+SI Loss 0.0762
+Current val score 0.7155
+Max val score 0.7273
+
+Epoch 170/200
+Total Loss 0.0975
+SI Loss 0.0761
+Current val score 0.7297
+Max val score 0.7273save...
+
+Epoch 171/200
+Total Loss 0.0984
+SI Loss 0.0762
+Current val score 0.7164
+Max val score 0.7297
+
+Epoch 172/200
+Total Loss 0.1007
+SI Loss 0.0766
+Current val score 0.7273
+Max val score 0.7297
+
+Epoch 173/200
+Total Loss 0.0989
+SI Loss 0.0765
+Current val score 0.7261
+Max val score 0.7297
+
+Epoch 174/200
+Total Loss 0.0998
+SI Loss 0.0767
+Current val score 0.7196
+Max val score 0.7297
+
+Epoch 175/200
+Total Loss 0.0990
+SI Loss 0.0769
+Current val score 0.7172
+Max val score 0.7297
+
+Epoch 176/200
+Total Loss 0.0979
+SI Loss 0.0766
+Current val score 0.7129
+Max val score 0.7297
+
+Epoch 177/200
+Total Loss 0.0976
+SI Loss 0.0765
+Current val score 0.7158
+Max val score 0.7297
+
+Epoch 178/200
+Total Loss 0.0966
+SI Loss 0.0765
+Current val score 0.7156
+Max val score 0.7297
+
+Epoch 179/200
+Total Loss 0.0979
+SI Loss 0.0763
+Current val score 0.7132
+Max val score 0.7297
+
+Epoch 180/200
+Total Loss 0.0944
+SI Loss 0.0760
+Current val score 0.7197
+Max val score 0.7297
+
+Epoch 181/200
+Total Loss 0.0979
+SI Loss 0.0759
+Current val score 0.7172
+Max val score 0.7297
+
+Epoch 182/200
+Total Loss 0.0962
+SI Loss 0.0758
+Current val score 0.7123
+Max val score 0.7297
+
+Epoch 183/200
+Total Loss 0.0982
+SI Loss 0.0758
+Current val score 0.7169
+Max val score 0.7297
+
+Epoch 184/200
+Total Loss 0.0974
+SI Loss 0.0761
+Current val score 0.7054
+Max val score 0.7297
+
+Epoch 185/200
+Total Loss 0.0969
+SI Loss 0.0761
+Current val score 0.7147
+Max val score 0.7297
+
+Epoch 186/200
+Total Loss 0.0945
+SI Loss 0.0761
+Current val score 0.7133
+Max val score 0.7297
+
+Epoch 187/200
+Total Loss 0.0970
+SI Loss 0.0759
+Current val score 0.7090
+Max val score 0.7297
+
+Epoch 188/200
+Total Loss 0.0962
+SI Loss 0.0759
+Current val score 0.7130
+Max val score 0.7297
+
+Epoch 189/200
+Total Loss 0.0968
+SI Loss 0.0758
+Current val score 0.7166
+Max val score 0.7297
+
+Epoch 190/200
+Total Loss 0.0982
+SI Loss 0.0760
+Current val score 0.7157
+Max val score 0.7297
+
+Epoch 191/200
+Total Loss 0.0971
+SI Loss 0.0761
+Current val score 0.7098
+Max val score 0.7297
+
+Epoch 192/200
+Total Loss 0.0981
+SI Loss 0.0761
+Current val score 0.6981
+Max val score 0.7297
+
+Epoch 193/200
+Total Loss 0.0958
+SI Loss 0.0760
+Current val score 0.7127
+Max val score 0.7297
+
+Epoch 194/200
+Total Loss 0.0990
+SI Loss 0.0762
+Current val score 0.7154
+Max val score 0.7297
+
+Epoch 195/200
+Total Loss 0.0991
+SI Loss 0.0761
+Current val score 0.7110
+Max val score 0.7297
+
+Epoch 196/200
+Total Loss 0.1000
+SI Loss 0.0766
+Current val score 0.7083
+Max val score 0.7297
+
+Epoch 197/200
+Total Loss 0.0953
+SI Loss 0.0766
+Current val score 0.7047
+Max val score 0.7297
+
+Epoch 198/200
+Total Loss 0.0964
+SI Loss 0.0763
+Current val score 0.7170
+Max val score 0.7297
+
+Epoch 199/200
+Total Loss 0.0974
+SI Loss 0.0762
+Current val score 0.7219
+Max val score 0.7297
+
+Epoch 200/200
+Total Loss 0.0956
+SI Loss 0.0761
+Current val score 0.7136
+Max val score 0.7297
+Task4 validation***************************************
+ Average WKTC over iterations 0.8210
+Task4 validation***************************************
+ Average WKTC over iterations 0.6912
+Task4 validation***************************************
+ Average WKTC over iterations 0.5578
+Task4 validation***************************************
+ Average WKTC over iterations 0.8133
+Task5*********************************************
+
+Epoch 1/200
+Total Loss 1.4333
+SI Loss 0.0475
+Current val score 0.6136save...
+
+Epoch 2/200
+Total Loss 0.6687
+SI Loss 0.1000
+Current val score 0.6114
+Max val score 0.6136
+
+Epoch 3/200
+Total Loss 0.4532
+SI Loss 0.1319
+Current val score 0.6146
+Max val score 0.6136save...
+
+Epoch 4/200
+Total Loss 0.3574
+SI Loss 0.1485
+Current val score 0.6146
+Max val score 0.6146
+
+Epoch 5/200
+Total Loss 0.3163
+SI Loss 0.1582
+Current val score 0.6259
+Max val score 0.6146save...
+
+Epoch 6/200
+Total Loss 0.2925
+SI Loss 0.1638
+Current val score 0.6313
+Max val score 0.6259save...
+
+Epoch 7/200
+Total Loss 0.2856
+SI Loss 0.1656
+Current val score 0.6463
+Max val score 0.6313save...
+
+Epoch 8/200
+Total Loss 0.2702
+SI Loss 0.1691
+Current val score 0.6394
+Max val score 0.6463
+
+Epoch 9/200
+Total Loss 0.2667
+SI Loss 0.1697
+Current val score 0.6420
+Max val score 0.6463
+
+Epoch 10/200
+Total Loss 0.2558
+SI Loss 0.1701
+Current val score 0.6458
+Max val score 0.6463
+
+Epoch 11/200
+Total Loss 0.2485
+SI Loss 0.1687
+Current val score 0.6548
+Max val score 0.6463save...
+
+Epoch 12/200
+Total Loss 0.2449
+SI Loss 0.1669
+Current val score 0.6261
+Max val score 0.6548
+
+Epoch 13/200
+Total Loss 0.2396
+SI Loss 0.1660
+Current val score 0.6300
+Max val score 0.6548
+
+Epoch 14/200
+Total Loss 0.2372
+SI Loss 0.1657
+Current val score 0.6456
+Max val score 0.6548
+
+Epoch 15/200
+Total Loss 0.2317
+SI Loss 0.1641
+Current val score 0.6581
+Max val score 0.6548save...
+
+Epoch 16/200
+Total Loss 0.2293
+SI Loss 0.1618
+Current val score 0.6275
+Max val score 0.6581
+
+Epoch 17/200
+Total Loss 0.2255
+SI Loss 0.1621
+Current val score 0.6490
+Max val score 0.6581
+
+Epoch 18/200
+Total Loss 0.2250
+SI Loss 0.1607
+Current val score 0.6707
+Max val score 0.6581save...
+
+Epoch 19/200
+Total Loss 0.2231
+SI Loss 0.1603
+Current val score 0.6581
+Max val score 0.6707
+
+Epoch 20/200
+Total Loss 0.2256
+SI Loss 0.1593
+Current val score 0.6464
+Max val score 0.6707
+
+Epoch 21/200
+Total Loss 0.2211
+SI Loss 0.1601
+Current val score 0.6631
+Max val score 0.6707
+
+Epoch 22/200
+Total Loss 0.2188
+SI Loss 0.1592
+Current val score 0.6490
+Max val score 0.6707
+
+Epoch 23/200
+Total Loss 0.2237
+SI Loss 0.1599
+Current val score 0.6514
+Max val score 0.6707
+
+Epoch 24/200
+Total Loss 0.2238
+SI Loss 0.1601
+Current val score 0.6616
+Max val score 0.6707
+
+Epoch 25/200
+Total Loss 0.2233
+SI Loss 0.1619
+Current val score 0.6514
+Max val score 0.6707
+
+Epoch 26/200
+Total Loss 0.2230
+SI Loss 0.1619
+Current val score 0.6492
+Max val score 0.6707
+
+Epoch 27/200
+Total Loss 0.2186
+SI Loss 0.1605
+Current val score 0.6572
+Max val score 0.6707
+
+Epoch 28/200
+Total Loss 0.2184
+SI Loss 0.1608
+Current val score 0.6580
+Max val score 0.6707
+
+Epoch 29/200
+Total Loss 0.2154
+SI Loss 0.1603
+Current val score 0.6539
+Max val score 0.6707
+
+Epoch 30/200
+Total Loss 0.2141
+SI Loss 0.1593
+Current val score 0.6535
+Max val score 0.6707
+
+Epoch 31/200
+Total Loss 0.2206
+SI Loss 0.1586
+Current val score 0.6675
+Max val score 0.6707
+
+Epoch 32/200
+Total Loss 0.2146
+SI Loss 0.1591
+Current val score 0.6579
+Max val score 0.6707
+
+Epoch 33/200
+Total Loss 0.2150
+SI Loss 0.1589
+Current val score 0.6566
+Max val score 0.6707
+
+Epoch 34/200
+Total Loss 0.2183
+SI Loss 0.1598
+Current val score 0.6646
+Max val score 0.6707
+
+Epoch 35/200
+Total Loss 0.2144
+SI Loss 0.1590
+Current val score 0.6534
+Max val score 0.6707
+
+Epoch 36/200
+Total Loss 0.2115
+SI Loss 0.1581
+Current val score 0.6650
+Max val score 0.6707
+
+Epoch 37/200
+Total Loss 0.2151
+SI Loss 0.1592
+Current val score 0.6746
+Max val score 0.6707save...
+
+Epoch 38/200
+Total Loss 0.2118
+SI Loss 0.1581
+Current val score 0.6765
+Max val score 0.6746save...
+
+Epoch 39/200
+Total Loss 0.2147
+SI Loss 0.1599
+Current val score 0.6779
+Max val score 0.6765save...
+
+Epoch 40/200
+Total Loss 0.2139
+SI Loss 0.1578
+Current val score 0.6700
+Max val score 0.6779
+
+Epoch 41/200
+Total Loss 0.2107
+SI Loss 0.1577
+Current val score 0.6714
+Max val score 0.6779
+
+Epoch 42/200
+Total Loss 0.2144
+SI Loss 0.1574
+Current val score 0.6755
+Max val score 0.6779
+
+Epoch 43/200
+Total Loss 0.2170
+SI Loss 0.1581
+Current val score 0.6575
+Max val score 0.6779
+
+Epoch 44/200
+Total Loss 0.2137
+SI Loss 0.1592
+Current val score 0.6739
+Max val score 0.6779
+
+Epoch 45/200
+Total Loss 0.2130
+SI Loss 0.1589
+Current val score 0.6667
+Max val score 0.6779
+
+Epoch 46/200
+Total Loss 0.2146
+SI Loss 0.1603
+Current val score 0.6501
+Max val score 0.6779
+
+Epoch 47/200
+Total Loss 0.2099
+SI Loss 0.1595
+Current val score 0.6722
+Max val score 0.6779
+
+Epoch 48/200
+Total Loss 0.2081
+SI Loss 0.1583
+Current val score 0.6542
+Max val score 0.6779
+
+Epoch 49/200
+Total Loss 0.2086
+SI Loss 0.1569
+Current val score 0.6778
+Max val score 0.6779
+
+Epoch 50/200
+Total Loss 0.2105
+SI Loss 0.1570
+Current val score 0.6657
+Max val score 0.6779
+
+Epoch 51/200
+Total Loss 0.2102
+SI Loss 0.1587
+Current val score 0.6676
+Max val score 0.6779
+
+Epoch 52/200
+Total Loss 0.2130
+SI Loss 0.1588
+Current val score 0.6736
+Max val score 0.6779
+
+Epoch 53/200
+Total Loss 0.2052
+SI Loss 0.1568
+Current val score 0.6678
+Max val score 0.6779
+
+Epoch 54/200
+Total Loss 0.2046
+SI Loss 0.1555
+Current val score 0.6512
+Max val score 0.6779
+
+Epoch 55/200
+Total Loss 0.2048
+SI Loss 0.1563
+Current val score 0.6659
+Max val score 0.6779
+
+Epoch 56/200
+Total Loss 0.2048
+SI Loss 0.1561
+Current val score 0.6483
+Max val score 0.6779
+
+Epoch 57/200
+Total Loss 0.2081
+SI Loss 0.1545
+Current val score 0.6703
+Max val score 0.6779
+
+Epoch 58/200
+Total Loss 0.2066
+SI Loss 0.1551
+Current val score 0.6695
+Max val score 0.6779
+
+Epoch 59/200
+Total Loss 0.2100
+SI Loss 0.1557
+Current val score 0.6644
+Max val score 0.6779
+
+Epoch 60/200
+Total Loss 0.2134
+SI Loss 0.1592
+Current val score 0.6665
+Max val score 0.6779
+
+Epoch 61/200
+Total Loss 0.2106
+SI Loss 0.1591
+Current val score 0.6756
+Max val score 0.6779
+
+Epoch 62/200
+Total Loss 0.2138
+SI Loss 0.1595
+Current val score 0.6559
+Max val score 0.6779
+
+Epoch 63/200
+Total Loss 0.2134
+SI Loss 0.1596
+Current val score 0.6537
+Max val score 0.6779
+
+Epoch 64/200
+Total Loss 0.2127
+SI Loss 0.1597
+Current val score 0.6693
+Max val score 0.6779
+
+Epoch 65/200
+Total Loss 0.2096
+SI Loss 0.1598
+Current val score 0.6609
+Max val score 0.6779
+
+Epoch 66/200
+Total Loss 0.2015
+SI Loss 0.1576
+Current val score 0.6723
+Max val score 0.6779
+
+Epoch 67/200
+Total Loss 0.2085
+SI Loss 0.1569
+Current val score 0.6648
+Max val score 0.6779
+
+Epoch 68/200
+Total Loss 0.2109
+SI Loss 0.1585
+Current val score 0.6602
+Max val score 0.6779
+
+Epoch 69/200
+Total Loss 0.2074
+SI Loss 0.1579
+Current val score 0.6498
+Max val score 0.6779
+
+Epoch 70/200
+Total Loss 0.2057
+SI Loss 0.1592
+Current val score 0.6508
+Max val score 0.6779
+
+Epoch 71/200
+Total Loss 0.2050
+SI Loss 0.1567
+Current val score 0.6457
+Max val score 0.6779
+
+Epoch 72/200
+Total Loss 0.2112
+SI Loss 0.1578
+Current val score 0.6497
+Max val score 0.6779
+
+Epoch 73/200
+Total Loss 0.2084
+SI Loss 0.1590
+Current val score 0.6579
+Max val score 0.6779
+
+Epoch 74/200
+Total Loss 0.2012
+SI Loss 0.1572
+Current val score 0.6578
+Max val score 0.6779
+
+Epoch 75/200
+Total Loss 0.2031
+SI Loss 0.1556
+Current val score 0.6638
+Max val score 0.6779
+
+Epoch 76/200
+Total Loss 0.2091
+SI Loss 0.1557
+Current val score 0.6709
+Max val score 0.6779
+
+Epoch 77/200
+Total Loss 0.1988
+SI Loss 0.1545
+Current val score 0.6684
+Max val score 0.6779
+
+Epoch 78/200
+Total Loss 0.2011
+SI Loss 0.1530
+Current val score 0.6632
+Max val score 0.6779
+
+Epoch 79/200
+Total Loss 0.2050
+SI Loss 0.1546
+Current val score 0.6659
+Max val score 0.6779
+
+Epoch 80/200
+Total Loss 0.2007
+SI Loss 0.1543
+Current val score 0.6755
+Max val score 0.6779
+
+Epoch 81/200
+Total Loss 0.2062
+SI Loss 0.1547
+Current val score 0.6700
+Max val score 0.6779
+
+Epoch 82/200
+Total Loss 0.2045
+SI Loss 0.1550
+Current val score 0.6651
+Max val score 0.6779
+
+Epoch 83/200
+Total Loss 0.2003
+SI Loss 0.1549
+Current val score 0.6748
+Max val score 0.6779
+
+Epoch 84/200
+Total Loss 0.2072
+SI Loss 0.1552
+Current val score 0.6710
+Max val score 0.6779
+
+Epoch 85/200
+Total Loss 0.2036
+SI Loss 0.1558
+Current val score 0.6563
+Max val score 0.6779
+
+Epoch 86/200
+Total Loss 0.2058
+SI Loss 0.1563
+Current val score 0.6756
+Max val score 0.6779
+
+Epoch 87/200
+Total Loss 0.2094
+SI Loss 0.1573
+Current val score 0.6713
+Max val score 0.6779
+
+Epoch 88/200
+Total Loss 0.2000
+SI Loss 0.1560
+Current val score 0.6738
+Max val score 0.6779
+
+Epoch 89/200
+Total Loss 0.2088
+SI Loss 0.1559
+Current val score 0.6636
+Max val score 0.6779
+
+Epoch 90/200
+Total Loss 0.2135
+SI Loss 0.1586
+Current val score 0.6624
+Max val score 0.6779
+
+Epoch 91/200
+Total Loss 0.2098
+SI Loss 0.1593
+Current val score 0.6687
+Max val score 0.6779
+
+Epoch 92/200
+Total Loss 0.2040
+SI Loss 0.1584
+Current val score 0.6746
+Max val score 0.6779
+
+Epoch 93/200
+Total Loss 0.2052
+SI Loss 0.1563
+Current val score 0.6569
+Max val score 0.6779
+
+Epoch 94/200
+Total Loss 0.2022
+SI Loss 0.1568
+Current val score 0.6705
+Max val score 0.6779
+
+Epoch 95/200
+Total Loss 0.2021
+SI Loss 0.1552
+Current val score 0.6624
+Max val score 0.6779
+
+Epoch 96/200
+Total Loss 0.2026
+SI Loss 0.1553
+Current val score 0.6610
+Max val score 0.6779
+
+Epoch 97/200
+Total Loss 0.1999
+SI Loss 0.1541
+Current val score 0.6640
+Max val score 0.6779
+
+Epoch 98/200
+Total Loss 0.1969
+SI Loss 0.1536
+Current val score 0.6625
+Max val score 0.6779
+
+Epoch 99/200
+Total Loss 0.1983
+SI Loss 0.1526
+Current val score 0.6726
+Max val score 0.6779
+
+Epoch 100/200
+Total Loss 0.1970
+SI Loss 0.1527
+Current val score 0.6811
+Max val score 0.6779save...
+
+Epoch 101/200
+Total Loss 0.1962
+SI Loss 0.1521
+Current val score 0.6593
+Max val score 0.6811
+
+Epoch 102/200
+Total Loss 0.1978
+SI Loss 0.1517
+Current val score 0.6670
+Max val score 0.6811
+
+Epoch 103/200
+Total Loss 0.2077
+SI Loss 0.1539
+Current val score 0.6600
+Max val score 0.6811
+
+Epoch 104/200
+Total Loss 0.1991
+SI Loss 0.1547
+Current val score 0.6649
+Max val score 0.6811
+
+Epoch 105/200
+Total Loss 0.1995
+SI Loss 0.1524
+Current val score 0.6498
+Max val score 0.6811
+
+Epoch 106/200
+Total Loss 0.2065
+SI Loss 0.1527
+Current val score 0.6648
+Max val score 0.6811
+
+Epoch 107/200
+Total Loss 0.2031
+SI Loss 0.1563
+Current val score 0.6495
+Max val score 0.6811
+
+Epoch 108/200
+Total Loss 0.2027
+SI Loss 0.1551
+Current val score 0.6599
+Max val score 0.6811
+
+Epoch 109/200
+Total Loss 0.2042
+SI Loss 0.1555
+Current val score 0.6619
+Max val score 0.6811
+
+Epoch 110/200
+Total Loss 0.2027
+SI Loss 0.1569
+Current val score 0.6696
+Max val score 0.6811
+
+Epoch 111/200
+Total Loss 0.2018
+SI Loss 0.1551
+Current val score 0.6696
+Max val score 0.6811
+
+Epoch 112/200
+Total Loss 0.1989
+SI Loss 0.1549
+Current val score 0.6622
+Max val score 0.6811
+
+Epoch 113/200
+Total Loss 0.2000
+SI Loss 0.1532
+Current val score 0.6706
+Max val score 0.6811
+
+Epoch 114/200
+Total Loss 0.2069
+SI Loss 0.1549
+Current val score 0.6727
+Max val score 0.6811
+
+Epoch 115/200
+Total Loss 0.2085
+SI Loss 0.1560
+Current val score 0.6581
+Max val score 0.6811
+
+Epoch 116/200
+Total Loss 0.2107
+SI Loss 0.1575
+Current val score 0.6634
+Max val score 0.6811
+
+Epoch 117/200
+Total Loss 0.2080
+SI Loss 0.1573
+Current val score 0.6619
+Max val score 0.6811
+
+Epoch 118/200
+Total Loss 0.2035
+SI Loss 0.1570
+Current val score 0.6672
+Max val score 0.6811
+
+Epoch 119/200
+Total Loss 0.2005
+SI Loss 0.1563
+Current val score 0.6621
+Max val score 0.6811
+
+Epoch 120/200
+Total Loss 0.2041
+SI Loss 0.1562
+Current val score 0.6785
+Max val score 0.6811
+
+Epoch 121/200
+Total Loss 0.2059
+SI Loss 0.1576
+Current val score 0.6755
+Max val score 0.6811
+
+Epoch 122/200
+Total Loss 0.2069
+SI Loss 0.1580
+Current val score 0.6560
+Max val score 0.6811
+
+Epoch 123/200
+Total Loss 0.2042
+SI Loss 0.1576
+Current val score 0.6686
+Max val score 0.6811
+
+Epoch 124/200
+Total Loss 0.2061
+SI Loss 0.1566
+Current val score 0.6698
+Max val score 0.6811
+
+Epoch 125/200
+Total Loss 0.2041
+SI Loss 0.1595
+Current val score 0.6641
+Max val score 0.6811
+
+Epoch 126/200
+Total Loss 0.1980
+SI Loss 0.1569
+Current val score 0.6706
+Max val score 0.6811
+
+Epoch 127/200
+Total Loss 0.2009
+SI Loss 0.1555
+Current val score 0.6587
+Max val score 0.6811
+
+Epoch 128/200
+Total Loss 0.2047
+SI Loss 0.1560
+Current val score 0.6708
+Max val score 0.6811
+
+Epoch 129/200
+Total Loss 0.2027
+SI Loss 0.1569
+Current val score 0.6577
+Max val score 0.6811
+
+Epoch 130/200
+Total Loss 0.2003
+SI Loss 0.1556
+Current val score 0.6485
+Max val score 0.6811
+
+Epoch 131/200
+Total Loss 0.1976
+SI Loss 0.1538
+Current val score 0.6740
+Max val score 0.6811
+
+Epoch 132/200
+Total Loss 0.2027
+SI Loss 0.1551
+Current val score 0.6601
+Max val score 0.6811
+
+Epoch 133/200
+Total Loss 0.1990
+SI Loss 0.1563
+Current val score 0.6708
+Max val score 0.6811
+
+Epoch 134/200
+Total Loss 0.2023
+SI Loss 0.1563
+Current val score 0.6577
+Max val score 0.6811
+
+Epoch 135/200
+Total Loss 0.2032
+SI Loss 0.1553
+Current val score 0.6642
+Max val score 0.6811
+
+Epoch 136/200
+Total Loss 0.2015
+SI Loss 0.1546
+Current val score 0.6505
+Max val score 0.6811
+
+Epoch 137/200
+Total Loss 0.2041
+SI Loss 0.1571
+Current val score 0.6608
+Max val score 0.6811
+
+Epoch 138/200
+Total Loss 0.2063
+SI Loss 0.1571
+Current val score 0.6478
+Max val score 0.6811
+
+Epoch 139/200
+Total Loss 0.2018
+SI Loss 0.1575
+Current val score 0.6637
+Max val score 0.6811
+
+Epoch 140/200
+Total Loss 0.2039
+SI Loss 0.1563
+Current val score 0.6753
+Max val score 0.6811
+
+Epoch 141/200
+Total Loss 0.2019
+SI Loss 0.1558
+Current val score 0.6789
+Max val score 0.6811
+
+Epoch 142/200
+Total Loss 0.2121
+SI Loss 0.1588
+Current val score 0.6709
+Max val score 0.6811
+
+Epoch 143/200
+Total Loss 0.2089
+SI Loss 0.1594
+Current val score 0.6751
+Max val score 0.6811
+
+Epoch 144/200
+Total Loss 0.2120
+SI Loss 0.1628
+Current val score 0.6718
+Max val score 0.6811
+
+Epoch 145/200
+Total Loss 0.2121
+SI Loss 0.1609
+Current val score 0.6661
+Max val score 0.6811
+
+Epoch 146/200
+Total Loss 0.2112
+SI Loss 0.1621
+Current val score 0.6827
+Max val score 0.6811save...
+
+Epoch 147/200
+Total Loss 0.2036
+SI Loss 0.1614
+Current val score 0.6790
+Max val score 0.6827
+
+Epoch 148/200
+Total Loss 0.2061
+SI Loss 0.1588
+Current val score 0.6634
+Max val score 0.6827
+
+Epoch 149/200
+Total Loss 0.2047
+SI Loss 0.1595
+Current val score 0.6694
+Max val score 0.6827
+
+Epoch 150/200
+Total Loss 0.2063
+SI Loss 0.1591
+Current val score 0.6719
+Max val score 0.6827
+
+Epoch 151/200
+Total Loss 0.2032
+SI Loss 0.1604
+Current val score 0.6834
+Max val score 0.6827save...
+
+Epoch 152/200
+Total Loss 0.2063
+SI Loss 0.1590
+Current val score 0.6872
+Max val score 0.6834save...
+
+Epoch 153/200
+Total Loss 0.2024
+SI Loss 0.1596
+Current val score 0.6797
+Max val score 0.6872
+
+Epoch 154/200
+Total Loss 0.2050
+SI Loss 0.1569
+Current val score 0.6797
+Max val score 0.6872
+
+Epoch 155/200
+Total Loss 0.2011
+SI Loss 0.1562
+Current val score 0.6799
+Max val score 0.6872
+
+Epoch 156/200
+Total Loss 0.2017
+SI Loss 0.1561
+Current val score 0.6771
+Max val score 0.6872
+
+Epoch 157/200
+Total Loss 0.1976
+SI Loss 0.1547
+Current val score 0.6850
+Max val score 0.6872
+
+Epoch 158/200
+Total Loss 0.2028
+SI Loss 0.1555
+Current val score 0.6807
+Max val score 0.6872
+
+Epoch 159/200
+Total Loss 0.2031
+SI Loss 0.1562
+Current val score 0.6785
+Max val score 0.6872
+
+Epoch 160/200
+Total Loss 0.1972
+SI Loss 0.1545
+Current val score 0.6894
+Max val score 0.6872save...
+
+Epoch 161/200
+Total Loss 0.2058
+SI Loss 0.1539
+Current val score 0.6623
+Max val score 0.6894
+
+Epoch 162/200
+Total Loss 0.2081
+SI Loss 0.1573
+Current val score 0.6825
+Max val score 0.6894
+
+Epoch 163/200
+Total Loss 0.2027
+SI Loss 0.1579
+Current val score 0.6680
+Max val score 0.6894
+
+Epoch 164/200
+Total Loss 0.1999
+SI Loss 0.1556
+Current val score 0.6853
+Max val score 0.6894
+
+Epoch 165/200
+Total Loss 0.2030
+SI Loss 0.1580
+Current val score 0.6844
+Max val score 0.6894
+
+Epoch 166/200
+Total Loss 0.1970
+SI Loss 0.1562
+Current val score 0.6841
+Max val score 0.6894
+
+Epoch 167/200
+Total Loss 0.2001
+SI Loss 0.1541
+Current val score 0.6881
+Max val score 0.6894
+
+Epoch 168/200
+Total Loss 0.2043
+SI Loss 0.1545
+Current val score 0.6793
+Max val score 0.6894
+
+Epoch 169/200
+Total Loss 0.1992
+SI Loss 0.1544
+Current val score 0.6832
+Max val score 0.6894
+
+Epoch 170/200
+Total Loss 0.2006
+SI Loss 0.1550
+Current val score 0.6909
+Max val score 0.6894save...
+
+Epoch 171/200
+Total Loss 0.1973
+SI Loss 0.1545
+Current val score 0.6874
+Max val score 0.6909
+
+Epoch 172/200
+Total Loss 0.2033
+SI Loss 0.1538
+Current val score 0.6805
+Max val score 0.6909
+
+Epoch 173/200
+Total Loss 0.1992
+SI Loss 0.1545
+Current val score 0.6819
+Max val score 0.6909
+
+Epoch 174/200
+Total Loss 0.1953
+SI Loss 0.1545
+Current val score 0.6879
+Max val score 0.6909
+
+Epoch 175/200
+Total Loss 0.1955
+SI Loss 0.1527
+Current val score 0.6791
+Max val score 0.6909
+
+Epoch 176/200
+Total Loss 0.2043
+SI Loss 0.1533
+Current val score 0.6554
+Max val score 0.6909
+
+Epoch 177/200
+Total Loss 0.2070
+SI Loss 0.1553
+Current val score 0.6559
+Max val score 0.6909
+
+Epoch 178/200
+Total Loss 0.1995
+SI Loss 0.1567
+Current val score 0.6783
+Max val score 0.6909
+
+Epoch 179/200
+Total Loss 0.1971
+SI Loss 0.1559
+Current val score 0.6742
+Max val score 0.6909
+
+Epoch 180/200
+Total Loss 0.1985
+SI Loss 0.1538
+Current val score 0.6710
+Max val score 0.6909
+
+Epoch 181/200
+Total Loss 0.2000
+SI Loss 0.1536
+Current val score 0.6520
+Max val score 0.6909
+
+Epoch 182/200
+Total Loss 0.2051
+SI Loss 0.1560
+Current val score 0.6698
+Max val score 0.6909
+
+Epoch 183/200
+Total Loss 0.2054
+SI Loss 0.1563
+Current val score 0.6761
+Max val score 0.6909
+
+Epoch 184/200
+Total Loss 0.2030
+SI Loss 0.1574
+Current val score 0.6694
+Max val score 0.6909
+
+Epoch 185/200
+Total Loss 0.2154
+SI Loss 0.1585
+Current val score 0.6556
+Max val score 0.6909
+
+Epoch 186/200
+Total Loss 0.2006
+SI Loss 0.1580
+Current val score 0.6600
+Max val score 0.6909
+
+Epoch 187/200
+Total Loss 0.2078
+SI Loss 0.1575
+Current val score 0.6644
+Max val score 0.6909
+
+Epoch 188/200
+Total Loss 0.2059
+SI Loss 0.1576
+Current val score 0.6693
+Max val score 0.6909
+
+Epoch 189/200
+Total Loss 0.2082
+SI Loss 0.1602
+Current val score 0.6729
+Max val score 0.6909
+
+Epoch 190/200
+Total Loss 0.2062
+SI Loss 0.1603
+Current val score 0.6619
+Max val score 0.6909
+
+Epoch 191/200
+Total Loss 0.2010
+SI Loss 0.1582
+Current val score 0.6584
+Max val score 0.6909
+
+Epoch 192/200
+Total Loss 0.2077
+SI Loss 0.1567
+Current val score 0.6681
+Max val score 0.6909
+
+Epoch 193/200
+Total Loss 0.2150
+SI Loss 0.1614
+Current val score 0.6598
+Max val score 0.6909
+
+Epoch 194/200
+Total Loss 0.2094
+SI Loss 0.1616
+Current val score 0.6574
+Max val score 0.6909
+
+Epoch 195/200
+Total Loss 0.2065
+SI Loss 0.1595
+Current val score 0.6656
+Max val score 0.6909
+
+Epoch 196/200
+Total Loss 0.2072
+SI Loss 0.1590
+Current val score 0.6728
+Max val score 0.6909
+
+Epoch 197/200
+Total Loss 0.2049
+SI Loss 0.1582
+Current val score 0.6701
+Max val score 0.6909
+
+Epoch 198/200
+Total Loss 0.2074
+SI Loss 0.1601
+Current val score 0.6609
+Max val score 0.6909
+
+Epoch 199/200
+Total Loss 0.2028
+SI Loss 0.1589
+Current val score 0.6562
+Max val score 0.6909
+
+Epoch 200/200
+Total Loss 0.1985
+SI Loss 0.1580
+Current val score 0.6581
+Max val score 0.6909
+Task5 validation***************************************
+ Average WKTC over iterations 0.7809
+Task5 validation***************************************
+ Average WKTC over iterations 0.6996
+Task5 validation***************************************
+ Average WKTC over iterations 0.4921
+Task5 validation***************************************
+ Average WKTC over iterations 0.7255
+Task5 validation***************************************
+ Average WKTC over iterations 0.7434
+Task6*********************************************
+
+Epoch 1/200
+Total Loss 0.5102
+SI Loss 0.0138
+Current val score 0.6065save...
+
+Epoch 2/200
+Total Loss 0.3551
+SI Loss 0.0325
+Current val score 0.6156
+Max val score 0.6065save...
+
+Epoch 3/200
+Total Loss 0.3022
+SI Loss 0.0425
+Current val score 0.6126
+Max val score 0.6156
+
+Epoch 4/200
+Total Loss 0.2741
+SI Loss 0.0513
+Current val score 0.6311
+Max val score 0.6156save...
+
+Epoch 5/200
+Total Loss 0.2550
+SI Loss 0.0590
+Current val score 0.6276
+Max val score 0.6311
+
+Epoch 6/200
+Total Loss 0.2361
+SI Loss 0.0654
+Current val score 0.6412
+Max val score 0.6311save...
+
+Epoch 7/200
+Total Loss 0.2238
+SI Loss 0.0713
+Current val score 0.6430
+Max val score 0.6412save...
+
+Epoch 8/200
+Total Loss 0.2113
+SI Loss 0.0757
+Current val score 0.6416
+Max val score 0.6430
+
+Epoch 9/200
+Total Loss 0.2065
+SI Loss 0.0797
+Current val score 0.6503
+Max val score 0.6430save...
+
+Epoch 10/200
+Total Loss 0.2004
+SI Loss 0.0836
+Current val score 0.6527
+Max val score 0.6503save...
+
+Epoch 11/200
+Total Loss 0.1927
+SI Loss 0.0866
+Current val score 0.6578
+Max val score 0.6527save...
+
+Epoch 12/200
+Total Loss 0.1857
+SI Loss 0.0887
+Current val score 0.6667
+Max val score 0.6578save...
+
+Epoch 13/200
+Total Loss 0.1846
+SI Loss 0.0905
+Current val score 0.6623
+Max val score 0.6667
+
+Epoch 14/200
+Total Loss 0.1846
+SI Loss 0.0929
+Current val score 0.6649
+Max val score 0.6667
+
+Epoch 15/200
+Total Loss 0.1783
+SI Loss 0.0945
+Current val score 0.6641
+Max val score 0.6667
+
+Epoch 16/200
+Total Loss 0.1780
+SI Loss 0.0956
+Current val score 0.6625
+Max val score 0.6667
+
+Epoch 17/200
+Total Loss 0.1747
+SI Loss 0.0966
+Current val score 0.6568
+Max val score 0.6667
+
+Epoch 18/200
+Total Loss 0.1717
+SI Loss 0.0977
+Current val score 0.6603
+Max val score 0.6667
+
+Epoch 19/200
+Total Loss 0.1715
+SI Loss 0.0980
+Current val score 0.6692
+Max val score 0.6667save...
+
+Epoch 20/200
+Total Loss 0.1713
+SI Loss 0.0988
+Current val score 0.6700
+Max val score 0.6692save...
+
+Epoch 21/200
+Total Loss 0.1720
+SI Loss 0.0996
+Current val score 0.6727
+Max val score 0.6700save...
+
+Epoch 22/200
+Total Loss 0.1696
+SI Loss 0.0999
+Current val score 0.6759
+Max val score 0.6727save...
+
+Epoch 23/200
+Total Loss 0.1661
+SI Loss 0.0999
+Current val score 0.6729
+Max val score 0.6759
+
+Epoch 24/200
+Total Loss 0.1696
+SI Loss 0.1003
+Current val score 0.6720
+Max val score 0.6759
+
+Epoch 25/200
+Total Loss 0.1676
+SI Loss 0.1007
+Current val score 0.6790
+Max val score 0.6759save...
+
+Epoch 26/200
+Total Loss 0.1694
+SI Loss 0.1015
+Current val score 0.6761
+Max val score 0.6790
+
+Epoch 27/200
+Total Loss 0.1679
+SI Loss 0.1017
+Current val score 0.6809
+Max val score 0.6790save...
+
+Epoch 28/200
+Total Loss 0.1638
+SI Loss 0.1015
+Current val score 0.6891
+Max val score 0.6809save...
+
+Epoch 29/200
+Total Loss 0.1651
+SI Loss 0.1014
+Current val score 0.6905
+Max val score 0.6891save...
+
+Epoch 30/200
+Total Loss 0.1628
+SI Loss 0.1012
+Current val score 0.6793
+Max val score 0.6905
+
+Epoch 31/200
+Total Loss 0.1644
+SI Loss 0.1014
+Current val score 0.6881
+Max val score 0.6905
+
+Epoch 32/200
+Total Loss 0.1658
+SI Loss 0.1018
+Current val score 0.6782
+Max val score 0.6905
+
+Epoch 33/200
+Total Loss 0.1654
+SI Loss 0.1021
+Current val score 0.6781
+Max val score 0.6905
+
+Epoch 34/200
+Total Loss 0.1650
+SI Loss 0.1021
+Current val score 0.6775
+Max val score 0.6905
+
+Epoch 35/200
+Total Loss 0.1630
+SI Loss 0.1026
+Current val score 0.6773
+Max val score 0.6905
+
+Epoch 36/200
+Total Loss 0.1631
+SI Loss 0.1024
+Current val score 0.6825
+Max val score 0.6905
+
+Epoch 37/200
+Total Loss 0.1632
+SI Loss 0.1027
+Current val score 0.6844
+Max val score 0.6905
+
+Epoch 38/200
+Total Loss 0.1606
+SI Loss 0.1024
+Current val score 0.6737
+Max val score 0.6905
+
+Epoch 39/200
+Total Loss 0.1616
+SI Loss 0.1022
+Current val score 0.6780
+Max val score 0.6905
+
+Epoch 40/200
+Total Loss 0.1626
+SI Loss 0.1025
+Current val score 0.6809
+Max val score 0.6905
+
+Epoch 41/200
+Total Loss 0.1611
+SI Loss 0.1024
+Current val score 0.6774
+Max val score 0.6905
+
+Epoch 42/200
+Total Loss 0.1613
+SI Loss 0.1023
+Current val score 0.6749
+Max val score 0.6905
+
+Epoch 43/200
+Total Loss 0.1586
+SI Loss 0.1023
+Current val score 0.6697
+Max val score 0.6905
+
+Epoch 44/200
+Total Loss 0.1597
+SI Loss 0.1021
+Current val score 0.6813
+Max val score 0.6905
+
+Epoch 45/200
+Total Loss 0.1591
+SI Loss 0.1021
+Current val score 0.6735
+Max val score 0.6905
+
+Epoch 46/200
+Total Loss 0.1606
+SI Loss 0.1022
+Current val score 0.6863
+Max val score 0.6905
+
+Epoch 47/200
+Total Loss 0.1593
+SI Loss 0.1027
+Current val score 0.6809
+Max val score 0.6905
+
+Epoch 48/200
+Total Loss 0.1592
+SI Loss 0.1028
+Current val score 0.6741
+Max val score 0.6905
+
+Epoch 49/200
+Total Loss 0.1603
+SI Loss 0.1026
+Current val score 0.6767
+Max val score 0.6905
+
+Epoch 50/200
+Total Loss 0.1603
+SI Loss 0.1027
+Current val score 0.6762
+Max val score 0.6905
+
+Epoch 51/200
+Total Loss 0.1624
+SI Loss 0.1031
+Current val score 0.6788
+Max val score 0.6905
+
+Epoch 52/200
+Total Loss 0.1589
+SI Loss 0.1030
+Current val score 0.6858
+Max val score 0.6905
+
+Epoch 53/200
+Total Loss 0.1598
+SI Loss 0.1028
+Current val score 0.6817
+Max val score 0.6905
+
+Epoch 54/200
+Total Loss 0.1612
+SI Loss 0.1030
+Current val score 0.6834
+Max val score 0.6905
+
+Epoch 55/200
+Total Loss 0.1580
+SI Loss 0.1033
+Current val score 0.6835
+Max val score 0.6905
+
+Epoch 56/200
+Total Loss 0.1604
+SI Loss 0.1035
+Current val score 0.6787
+Max val score 0.6905
+
+Epoch 57/200
+Total Loss 0.1598
+SI Loss 0.1036
+Current val score 0.6824
+Max val score 0.6905
+
+Epoch 58/200
+Total Loss 0.1624
+SI Loss 0.1036
+Current val score 0.6731
+Max val score 0.6905
+
+Epoch 59/200
+Total Loss 0.1609
+SI Loss 0.1036
+Current val score 0.6893
+Max val score 0.6905
+
+Epoch 60/200
+Total Loss 0.1586
+SI Loss 0.1037
+Current val score 0.6798
+Max val score 0.6905
+
+Epoch 61/200
+Total Loss 0.1592
+SI Loss 0.1035
+Current val score 0.6872
+Max val score 0.6905
+
+Epoch 62/200
+Total Loss 0.1594
+SI Loss 0.1032
+Current val score 0.6753
+Max val score 0.6905
+
+Epoch 63/200
+Total Loss 0.1587
+SI Loss 0.1031
+Current val score 0.6775
+Max val score 0.6905
+
+Epoch 64/200
+Total Loss 0.1596
+SI Loss 0.1030
+Current val score 0.6803
+Max val score 0.6905
+
+Epoch 65/200
+Total Loss 0.1602
+SI Loss 0.1035
+Current val score 0.6787
+Max val score 0.6905
+
+Epoch 66/200
+Total Loss 0.1577
+SI Loss 0.1034
+Current val score 0.6842
+Max val score 0.6905
+
+Epoch 67/200
+Total Loss 0.1601
+SI Loss 0.1032
+Current val score 0.6864
+Max val score 0.6905
+
+Epoch 68/200
+Total Loss 0.1560
+SI Loss 0.1032
+Current val score 0.6831
+Max val score 0.6905
+
+Epoch 69/200
+Total Loss 0.1589
+SI Loss 0.1031
+Current val score 0.6779
+Max val score 0.6905
+
+Epoch 70/200
+Total Loss 0.1587
+SI Loss 0.1030
+Current val score 0.6778
+Max val score 0.6905
+
+Epoch 71/200
+Total Loss 0.1582
+SI Loss 0.1032
+Current val score 0.6808
+Max val score 0.6905
+
+Epoch 72/200
+Total Loss 0.1570
+SI Loss 0.1031
+Current val score 0.6772
+Max val score 0.6905
+
+Epoch 73/200
+Total Loss 0.1587
+SI Loss 0.1032
+Current val score 0.6782
+Max val score 0.6905
+
+Epoch 74/200
+Total Loss 0.1585
+SI Loss 0.1034
+Current val score 0.6769
+Max val score 0.6905
+
+Epoch 75/200
+Total Loss 0.1598
+SI Loss 0.1037
+Current val score 0.6740
+Max val score 0.6905
+
+Epoch 76/200
+Total Loss 0.1575
+SI Loss 0.1037
+Current val score 0.6873
+Max val score 0.6905
+
+Epoch 77/200
+Total Loss 0.1588
+SI Loss 0.1034
+Current val score 0.6814
+Max val score 0.6905
+
+Epoch 78/200
+Total Loss 0.1607
+SI Loss 0.1035
+Current val score 0.6698
+Max val score 0.6905
+
+Epoch 79/200
+Total Loss 0.1599
+SI Loss 0.1035
+Current val score 0.6776
+Max val score 0.6905
+
+Epoch 80/200
+Total Loss 0.1595
+SI Loss 0.1037
+Current val score 0.6841
+Max val score 0.6905
+
+Epoch 81/200
+Total Loss 0.1592
+SI Loss 0.1037
+Current val score 0.6836
+Max val score 0.6905
+
+Epoch 82/200
+Total Loss 0.1586
+SI Loss 0.1037
+Current val score 0.6855
+Max val score 0.6905
+
+Epoch 83/200
+Total Loss 0.1594
+SI Loss 0.1038
+Current val score 0.6801
+Max val score 0.6905
+
+Epoch 84/200
+Total Loss 0.1612
+SI Loss 0.1038
+Current val score 0.6793
+Max val score 0.6905
+
+Epoch 85/200
+Total Loss 0.1593
+SI Loss 0.1043
+Current val score 0.6740
+Max val score 0.6905
+
+Epoch 86/200
+Total Loss 0.1581
+SI Loss 0.1042
+Current val score 0.6875
+Max val score 0.6905
+
+Epoch 87/200
+Total Loss 0.1581
+SI Loss 0.1040
+Current val score 0.6882
+Max val score 0.6905
+
+Epoch 88/200
+Total Loss 0.1555
+SI Loss 0.1037
+Current val score 0.6820
+Max val score 0.6905
+
+Epoch 89/200
+Total Loss 0.1578
+SI Loss 0.1034
+Current val score 0.6804
+Max val score 0.6905
+
+Epoch 90/200
+Total Loss 0.1603
+SI Loss 0.1038
+Current val score 0.6816
+Max val score 0.6905
+
+Epoch 91/200
+Total Loss 0.1583
+SI Loss 0.1039
+Current val score 0.6819
+Max val score 0.6905
+
+Epoch 92/200
+Total Loss 0.1569
+SI Loss 0.1038
+Current val score 0.6807
+Max val score 0.6905
+
+Epoch 93/200
+Total Loss 0.1586
+SI Loss 0.1039
+Current val score 0.6907
+Max val score 0.6905save...
+
+Epoch 94/200
+Total Loss 0.1595
+SI Loss 0.1038
+Current val score 0.6768
+Max val score 0.6907
+
+Epoch 95/200
+Total Loss 0.1579
+SI Loss 0.1042
+Current val score 0.6736
+Max val score 0.6907
+
+Epoch 96/200
+Total Loss 0.1573
+SI Loss 0.1039
+Current val score 0.6815
+Max val score 0.6907
+
+Epoch 97/200
+Total Loss 0.1567
+SI Loss 0.1035
+Current val score 0.6877
+Max val score 0.6907
+
+Epoch 98/200
+Total Loss 0.1563
+SI Loss 0.1031
+Current val score 0.6718
+Max val score 0.6907
+
+Epoch 99/200
+Total Loss 0.1562
+SI Loss 0.1031
+Current val score 0.6833
+Max val score 0.6907
+
+Epoch 100/200
+Total Loss 0.1582
+SI Loss 0.1033
+Current val score 0.6882
+Max val score 0.6907
+
+Epoch 101/200
+Total Loss 0.1589
+SI Loss 0.1036
+Current val score 0.6864
+Max val score 0.6907
+
+Epoch 102/200
+Total Loss 0.1570
+SI Loss 0.1034
+Current val score 0.6886
+Max val score 0.6907
+
+Epoch 103/200
+Total Loss 0.1590
+SI Loss 0.1034
+Current val score 0.6971
+Max val score 0.6907save...
+
+Epoch 104/200
+Total Loss 0.1576
+SI Loss 0.1035
+Current val score 0.6704
+Max val score 0.6971
+
+Epoch 105/200
+Total Loss 0.1577
+SI Loss 0.1033
+Current val score 0.6835
+Max val score 0.6971
+
+Epoch 106/200
+Total Loss 0.1599
+SI Loss 0.1037
+Current val score 0.6756
+Max val score 0.6971
+
+Epoch 107/200
+Total Loss 0.1588
+SI Loss 0.1037
+Current val score 0.6870
+Max val score 0.6971
+
+Epoch 108/200
+Total Loss 0.1574
+SI Loss 0.1037
+Current val score 0.6746
+Max val score 0.6971
+
+Epoch 109/200
+Total Loss 0.1552
+SI Loss 0.1037
+Current val score 0.6853
+Max val score 0.6971
+
+Epoch 110/200
+Total Loss 0.1566
+SI Loss 0.1035
+Current val score 0.6851
+Max val score 0.6971
+
+Epoch 111/200
+Total Loss 0.1594
+SI Loss 0.1035
+Current val score 0.6862
+Max val score 0.6971
+
+Epoch 112/200
+Total Loss 0.1591
+SI Loss 0.1038
+Current val score 0.6778
+Max val score 0.6971
+
+Epoch 113/200
+Total Loss 0.1559
+SI Loss 0.1038
+Current val score 0.6808
+Max val score 0.6971
+
+Epoch 114/200
+Total Loss 0.1592
+SI Loss 0.1039
+Current val score 0.6927
+Max val score 0.6971
+
+Epoch 115/200
+Total Loss 0.1554
+SI Loss 0.1038
+Current val score 0.6943
+Max val score 0.6971
+
+Epoch 116/200
+Total Loss 0.1592
+SI Loss 0.1035
+Current val score 0.6816
+Max val score 0.6971
+
+Epoch 117/200
+Total Loss 0.1572
+SI Loss 0.1035
+Current val score 0.6915
+Max val score 0.6971
+
+Epoch 118/200
+Total Loss 0.1576
+SI Loss 0.1038
+Current val score 0.6847
+Max val score 0.6971
+
+Epoch 119/200
+Total Loss 0.1577
+SI Loss 0.1037
+Current val score 0.6862
+Max val score 0.6971
+
+Epoch 120/200
+Total Loss 0.1563
+SI Loss 0.1036
+Current val score 0.6812
+Max val score 0.6971
+
+Epoch 121/200
+Total Loss 0.1577
+SI Loss 0.1034
+Current val score 0.6823
+Max val score 0.6971
+
+Epoch 122/200
+Total Loss 0.1573
+SI Loss 0.1033
+Current val score 0.6911
+Max val score 0.6971
+
+Epoch 123/200
+Total Loss 0.1582
+SI Loss 0.1035
+Current val score 0.6831
+Max val score 0.6971
+
+Epoch 124/200
+Total Loss 0.1577
+SI Loss 0.1034
+Current val score 0.6795
+Max val score 0.6971
+
+Epoch 125/200
+Total Loss 0.1560
+SI Loss 0.1029
+Current val score 0.6898
+Max val score 0.6971
+
+Epoch 126/200
+Total Loss 0.1557
+SI Loss 0.1031
+Current val score 0.6763
+Max val score 0.6971
+
+Epoch 127/200
+Total Loss 0.1564
+SI Loss 0.1030
+Current val score 0.6925
+Max val score 0.6971
+
+Epoch 128/200
+Total Loss 0.1587
+SI Loss 0.1032
+Current val score 0.6781
+Max val score 0.6971
+
+Epoch 129/200
+Total Loss 0.1562
+SI Loss 0.1035
+Current val score 0.6829
+Max val score 0.6971
+
+Epoch 130/200
+Total Loss 0.1567
+SI Loss 0.1032
+Current val score 0.6814
+Max val score 0.6971
+
+Epoch 131/200
+Total Loss 0.1565
+SI Loss 0.1032
+Current val score 0.6811
+Max val score 0.6971
+
+Epoch 132/200
+Total Loss 0.1585
+SI Loss 0.1032
+Current val score 0.6854
+Max val score 0.6971
+
+Epoch 133/200
+Total Loss 0.1603
+SI Loss 0.1036
+Current val score 0.6824
+Max val score 0.6971
+
+Epoch 134/200
+Total Loss 0.1549
+SI Loss 0.1036
+Current val score 0.6883
+Max val score 0.6971
+
+Epoch 135/200
+Total Loss 0.1548
+SI Loss 0.1034
+Current val score 0.6840
+Max val score 0.6971
+
+Epoch 136/200
+Total Loss 0.1566
+SI Loss 0.1029
+Current val score 0.6926
+Max val score 0.6971
+
+Epoch 137/200
+Total Loss 0.1576
+SI Loss 0.1030
+Current val score 0.6851
+Max val score 0.6971
+
+Epoch 138/200
+Total Loss 0.1575
+SI Loss 0.1031
+Current val score 0.6863
+Max val score 0.6971
+
+Epoch 139/200
+Total Loss 0.1579
+SI Loss 0.1032
+Current val score 0.6840
+Max val score 0.6971
+
+Epoch 140/200
+Total Loss 0.1566
+SI Loss 0.1035
+Current val score 0.6761
+Max val score 0.6971
+
+Epoch 141/200
+Total Loss 0.1569
+SI Loss 0.1033
+Current val score 0.6910
+Max val score 0.6971
+
+Epoch 142/200
+Total Loss 0.1555
+SI Loss 0.1033
+Current val score 0.6814
+Max val score 0.6971
+
+Epoch 143/200
+Total Loss 0.1576
+SI Loss 0.1033
+Current val score 0.6884
+Max val score 0.6971
+
+Epoch 144/200
+Total Loss 0.1577
+SI Loss 0.1036
+Current val score 0.6909
+Max val score 0.6971
+
+Epoch 145/200
+Total Loss 0.1539
+SI Loss 0.1035
+Current val score 0.6892
+Max val score 0.6971
+
+Epoch 146/200
+Total Loss 0.1565
+SI Loss 0.1034
+Current val score 0.6838
+Max val score 0.6971
+
+Epoch 147/200
+Total Loss 0.1579
+SI Loss 0.1034
+Current val score 0.6830
+Max val score 0.6971
+
+Epoch 148/200
+Total Loss 0.1567
+SI Loss 0.1033
+Current val score 0.6809
+Max val score 0.6971
+
+Epoch 149/200
+Total Loss 0.1571
+SI Loss 0.1031
+Current val score 0.6839
+Max val score 0.6971
+
+Epoch 150/200
+Total Loss 0.1561
+SI Loss 0.1030
+Current val score 0.6821
+Max val score 0.6971
+
+Epoch 151/200
+Total Loss 0.1557
+SI Loss 0.1031
+Current val score 0.6840
+Max val score 0.6971
+
+Epoch 152/200
+Total Loss 0.1574
+SI Loss 0.1031
+Current val score 0.6895
+Max val score 0.6971
+
+Epoch 153/200
+Total Loss 0.1560
+SI Loss 0.1029
+Current val score 0.6851
+Max val score 0.6971
+
+Epoch 154/200
+Total Loss 0.1557
+SI Loss 0.1029
+Current val score 0.6807
+Max val score 0.6971
+
+Epoch 155/200
+Total Loss 0.1550
+SI Loss 0.1029
+Current val score 0.6979
+Max val score 0.6971save...
+
+Epoch 156/200
+Total Loss 0.1576
+SI Loss 0.1032
+Current val score 0.6838
+Max val score 0.6979
+
+Epoch 157/200
+Total Loss 0.1555
+SI Loss 0.1032
+Current val score 0.6861
+Max val score 0.6979
+
+Epoch 158/200
+Total Loss 0.1569
+SI Loss 0.1031
+Current val score 0.6870
+Max val score 0.6979
+
+Epoch 159/200
+Total Loss 0.1572
+SI Loss 0.1032
+Current val score 0.6828
+Max val score 0.6979
+
+Epoch 160/200
+Total Loss 0.1562
+SI Loss 0.1030
+Current val score 0.6753
+Max val score 0.6979
+
+Epoch 161/200
+Total Loss 0.1568
+SI Loss 0.1030
+Current val score 0.6837
+Max val score 0.6979
+
+Epoch 162/200
+Total Loss 0.1562
+SI Loss 0.1031
+Current val score 0.6818
+Max val score 0.6979
+
+Epoch 163/200
+Total Loss 0.1541
+SI Loss 0.1029
+Current val score 0.6820
+Max val score 0.6979
+
+Epoch 164/200
+Total Loss 0.1548
+SI Loss 0.1029
+Current val score 0.6834
+Max val score 0.6979
+
+Epoch 165/200
+Total Loss 0.1572
+SI Loss 0.1028
+Current val score 0.6827
+Max val score 0.6979
+
+Epoch 166/200
+Total Loss 0.1575
+SI Loss 0.1029
+Current val score 0.6817
+Max val score 0.6979
+
+Epoch 167/200
+Total Loss 0.1552
+SI Loss 0.1030
+Current val score 0.6848
+Max val score 0.6979
+
+Epoch 168/200
+Total Loss 0.1558
+SI Loss 0.1029
+Current val score 0.6868
+Max val score 0.6979
+
+Epoch 169/200
+Total Loss 0.1575
+SI Loss 0.1029
+Current val score 0.6824
+Max val score 0.6979
+
+Epoch 170/200
+Total Loss 0.1599
+SI Loss 0.1035
+Current val score 0.6857
+Max val score 0.6979
+
+Epoch 171/200
+Total Loss 0.1577
+SI Loss 0.1037
+Current val score 0.6820
+Max val score 0.6979
+
+Epoch 172/200
+Total Loss 0.1555
+SI Loss 0.1032
+Current val score 0.6771
+Max val score 0.6979
+
+Epoch 173/200
+Total Loss 0.1561
+SI Loss 0.1031
+Current val score 0.6752
+Max val score 0.6979
+
+Epoch 174/200
+Total Loss 0.1563
+SI Loss 0.1031
+Current val score 0.6762
+Max val score 0.6979
+
+Epoch 175/200
+Total Loss 0.1570
+SI Loss 0.1028
+Current val score 0.6880
+Max val score 0.6979
+
+Epoch 176/200
+Total Loss 0.1551
+SI Loss 0.1028
+Current val score 0.6847
+Max val score 0.6979
+
+Epoch 177/200
+Total Loss 0.1580
+SI Loss 0.1030
+Current val score 0.6818
+Max val score 0.6979
+
+Epoch 178/200
+Total Loss 0.1569
+SI Loss 0.1033
+Current val score 0.6775
+Max val score 0.6979
+
+Epoch 179/200
+Total Loss 0.1541
+SI Loss 0.1029
+Current val score 0.6823
+Max val score 0.6979
+
+Epoch 180/200
+Total Loss 0.1564
+SI Loss 0.1027
+Current val score 0.6841
+Max val score 0.6979
+
+Epoch 181/200
+Total Loss 0.1559
+SI Loss 0.1029
+Current val score 0.6791
+Max val score 0.6979
+
+Epoch 182/200
+Total Loss 0.1551
+SI Loss 0.1026
+Current val score 0.6865
+Max val score 0.6979
+
+Epoch 183/200
+Total Loss 0.1583
+SI Loss 0.1031
+Current val score 0.6826
+Max val score 0.6979
+
+Epoch 184/200
+Total Loss 0.1573
+SI Loss 0.1032
+Current val score 0.6871
+Max val score 0.6979
+
+Epoch 185/200
+Total Loss 0.1578
+SI Loss 0.1033
+Current val score 0.6800
+Max val score 0.6979
+
+Epoch 186/200
+Total Loss 0.1562
+SI Loss 0.1031
+Current val score 0.6937
+Max val score 0.6979
+
+Epoch 187/200
+Total Loss 0.1572
+SI Loss 0.1032
+Current val score 0.6856
+Max val score 0.6979
+
+Epoch 188/200
+Total Loss 0.1570
+SI Loss 0.1032
+Current val score 0.6884
+Max val score 0.6979
+
+Epoch 189/200
+Total Loss 0.1555
+SI Loss 0.1032
+Current val score 0.6897
+Max val score 0.6979
+
+Epoch 190/200
+Total Loss 0.1565
+SI Loss 0.1030
+Current val score 0.6815
+Max val score 0.6979
+
+Epoch 191/200
+Total Loss 0.1555
+SI Loss 0.1028
+Current val score 0.6792
+Max val score 0.6979
+
+Epoch 192/200
+Total Loss 0.1557
+SI Loss 0.1029
+Current val score 0.6791
+Max val score 0.6979
+
+Epoch 193/200
+Total Loss 0.1566
+SI Loss 0.1029
+Current val score 0.6804
+Max val score 0.6979
+
+Epoch 194/200
+Total Loss 0.1556
+SI Loss 0.1025
+Current val score 0.6851
+Max val score 0.6979
+
+Epoch 195/200
+Total Loss 0.1579
+SI Loss 0.1026
+Current val score 0.6851
+Max val score 0.6979
+
+Epoch 196/200
+Total Loss 0.1551
+SI Loss 0.1027
+Current val score 0.6782
+Max val score 0.6979
+
+Epoch 197/200
+Total Loss 0.1561
+SI Loss 0.1026
+Current val score 0.6886
+Max val score 0.6979
+
+Epoch 198/200
+Total Loss 0.1556
+SI Loss 0.1025
+Current val score 0.6888
+Max val score 0.6979
+
+Epoch 199/200
+Total Loss 0.1570
+SI Loss 0.1022
+Current val score 0.6933
+Max val score 0.6979
+
+Epoch 200/200
+Total Loss 0.1567
+SI Loss 0.1025
+Current val score 0.6906
+Max val score 0.6979
+Task6 validation***************************************
+ Average WKTC over iterations 0.8131
+Task6 validation***************************************
+ Average WKTC over iterations 0.6377
+Task6 validation***************************************
+ Average WKTC over iterations 0.5774
+Task6 validation***************************************
+ Average WKTC over iterations 0.7299
+Task6 validation***************************************
+ Average WKTC over iterations 0.6906
+Task6 validation***************************************
+ Average WKTC over iterations 0.7261
