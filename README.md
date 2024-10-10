@@ -61,6 +61,6 @@ example
     
 ## Final Score
 
-0.7063361 (after quantization)
+0.7063361 after quantization
 
-16.8MB (17.6 MB)
+Sever: 16.8MB (My PC: 17.6 MB)
