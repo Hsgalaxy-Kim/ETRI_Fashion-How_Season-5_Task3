@@ -64,6 +64,6 @@ example
 
 0.7063361
 
-Sever: 16.8MB
+Server: 16.8MB
 
 My PC: 17.6 MB
